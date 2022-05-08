@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title>Publications</title>
+    <url>/2021/09/11/Publications/</url>
+    <content><![CDATA[<h1 id="Journal"><a href="#Journal" class="headerlink" title="Journal"></a><em>Journal</em></h1><p>[1] <strong>杨光</strong>,贾焱鑫,陈翔,许舒源.基于深度学习的Stack Overflow问题帖分类方法[J].吉林大学学报(理学版),2021,59(04):922-928.</p>
+<p>[2] 贾焱鑫,陈翔,葛骅,<strong>杨光</strong>,林浩.ORESP:基于有序回归的软件缺陷严重程度预测方法[J].计算机应用研究,2021,38(06):1815-1818.</p>
+<p>[3] 陈翔,<strong>杨光</strong>,崔展齐,孟国柱,王赞.代码注释自动生成方法综述[J].软件学报,2021,32(07):2118-2141.</p>
+<h1 id="Conference"><a href="#Conference" class="headerlink" title="Conference"></a><em>Conference</em></h1><p>[1] <strong>Guang Yang</strong>, Yanlin Zhou, Chi Yu and Xiang Chen. “DeepSCC: Source Code Classification Based on Fine-Tuned RoBERTa” <em>The 33nd International Conference on Software Engineering and Knowledge Engineering (SEKE 2021)</em>, Accepted as a Short Paper</p>
+<p>[2] <strong>Guang Yang</strong>, Xiang Chen, Jinxin Cao, Shuyuan Xu, Zhanqi Cui, Chi Yu, Ke Liu. “ComFormer: Code Comment Generation via Transformer and Fusion Method-based Hybrid Code Representation” <em>8th International Conference on Dependable Systems and Their Applications (DSA 2021)</em>, Accepted as a Regular  Paper</p>
+]]></content>
+  </entry>
+  <entry>
+    <title>honors</title>
+    <url>/honors/index.html</url>
+    <content><![CDATA[<h1 id="Honors"><a href="#Honors" class="headerlink" title="Honors"></a><em>Honors</em></h1><ol>
+<li><p>硕士期间（南通大学）：</p>
+<p><strong>国家奖学金</strong>🏆、一等奖学金、优秀研究生、优秀毕业研究生</p>
+<p>平均每年综测排名：1/28</p>
+</li>
+<li><p>本科期间（南通大学）：</p>
+<p>三等奖学金、校优秀毕业设计</p>
+</li>
+</ol>
+<h1 id="Competitions"><a href="#Competitions" class="headerlink" title="Competitions"></a><em>Competitions</em></h1><h2 id="2021"><a href="#2021" class="headerlink" title="2021"></a>2021</h2><ol>
+<li><font color='red'>挑战杯“黑科技”专项竞赛</font>  全国  三等奖，江苏省  一等奖，南通大学  一等奖  2021</li>
+<li>第八届发现杯人工智能  全国  三等奖，华东赛区  一等奖，2021</li>
+<li>2021第四届全国大学生计算机技能应用大赛  全国  一等奖，2021</li>
+<li>2020年第二届国际青年人工智能大赛  铜奖，2021</li>
+<li>2020年MathorCup高校数学建模挑战赛大数据竞赛  研究生组  三等奖，2021</li>
+<li>2021第七届全国移动互联创新大赛  华东-华中赛区  银奖，2021</li>
+<li>2021年全国大学生数据统计与分析竞赛  全国  三等奖，2021</li>
+<li>2021 中国高校计算机大赛微信小程序应用开发赛  华东赛区  三等奖，2021</li>
+</ol>
+<h2 id="2020"><a href="#2020" class="headerlink" title="2020"></a>2020</h2><ol>
+<li><font color = 'red'>2020年领航杯江苏省大学生信息技术应用能力比赛</font>  软件开发类  一等奖，2020</li>
+<li><font color='red'>第17届华为杯中国研究生数学建模竞赛</font>  全国  二等奖，2020</li>
+<li><font color='red'>第22届中国机器人及人工智能大赛</font>人工智能类创新赛  全国  一等奖，2020</li>
+<li>第七届发现杯人工智能  华东赛区  二等奖，2020</li>
+<li>2020 中国高校计算机大赛微信小程序应用开发赛  华东赛区  三等奖，2020</li>
+<li>2020年全国移动互联创新大赛  华东赛区  三等奖，2020</li>
+<li>2020 中国高校计算机大赛微信小程序应用开发赛  华东赛区  三等奖，2020</li>
+<li>2020年第十届全国大学生信息技术创新应用大赛  全国  三等奖，2020</li>
+</ol>
+<h2 id="2019"><a href="#2019" class="headerlink" title="2019"></a>2019</h2><ol>
+<li>2019 中国高校计算机大赛微信小程序应用开发赛  华东赛区  一等奖，2019</li>
+<li>2019年全国软件测试大赛开发者测试(个人)  华东赛区  三等奖 ，2019</li>
+<li>2019年江苏省研究生数学建模科研创新实践大赛  三等奖，2019</li>
+</ol>
+<h2 id="2018"><a href="#2018" class="headerlink" title="2018"></a>2018</h2><ol>
+<li>第9届中国大学生服务外包创新创业大赛  全国  三等奖，2018</li>
+</ol>
+]]></content>
+  </entry>
+  <entry>
+    <title>publications</title>
+    <url>/publications/index.html</url>
+    <content><![CDATA[<h1 id="Journal"><a href="#Journal" class="headerlink" title="Journal"></a><em>Journal</em></h1><ol>
+<li><p><font color=red>[KBS]</font> CCGIR: Information Retrieval-based Code Comment Generation Method for Smart Contracts.</p>
+<p> <strong>Guang Yang</strong>, Ke Liu, Xiang Chen*, Yanlin Zhou, Chi Yu, Hao Lin</p>
+<p> <em>Knowledge-Based Systems</em>. 2022, 237:107858. <font color=red>(SCI 一区，Top期刊，CCF C，影响因子8.038)</font></p>
+<p> [<a class="link"   href="https://www.sciencedirect.com/science/article/abs/pii/S0950705121010406" >Link<i class="fas fa-external-link-alt"></i></a>] [<a class="link"   href="https://github.com/NTDXYG/CCGIR" >Github<i class="fas fa-external-link-alt"></i></a>]</p>
+</li>
+<li><p><font color=red>[软件学报]</font> 代码注释自动生成方法综述。</p>
+<p>陈翔*, <strong>杨光</strong>, 崔展齐, 孟国柱, 王赞</p>
+<p><em>软件学报</em>. 2021, 32(07):2118-2141. <font color=red>(EI期刊，中文CCF A，影响因子3.993)</font></p>
+<p>[<a class="link"   href="http://www.jos.org.cn/jos/article/abstract/6258" >Link<i class="fas fa-external-link-alt"></i></a>]</p>
+</li>
+<li><p><font color=red>[软件学报]</font> 基于双重信息检索的Bash代码注释自动生成方法。</p>
+<p> 陈翔，于池，<strong>杨光</strong>，濮雪莲，崔展齐</p>
+<p> <em>软件学报</em>. 2022, 拟录用. <font color=red>(EI期刊，中文CCF A，影响因子3.993)</font></p>
+<p> [<a href="">Link</a>]</p>
+</li>
+<li><p><font color=red>[吉林大学学报(理学版)]</font> 基于深度学习的Stack Overflow问题帖分类方法。</p>
+<p><strong>杨光</strong>, 贾焱鑫, 陈翔*, 许舒源</p>
+<p><em>吉林大学学报(理学版)</em>. 2021, 59 (4): 922-928. <font color=red>(北大核心，影响因子0.601)</font></p>
+<p>[<a class="link"   href="http://xuebao.jlu.edu.cn/lxb/CN/Y2021/V59/I4/922" >Link<i class="fas fa-external-link-alt"></i></a>] </p>
+</li>
+<li><p><font color=red>[计算机应用研究]</font> ORESP: 基于有序回归的软件缺陷严重程度预测方法。</p>
+<p>贾焱鑫, 陈翔*, 葛骅, <strong>杨光</strong>, 林浩</p>
+<p><em>计算机应用研究</em>. 2021,38(06):1815-1818. <font color=red>(北大核心，影响因子1.888)</font></p>
+<p>[<a class="link"   href="https://www.arocmag.com/article/01-2021-06-040.html" >Link<i class="fas fa-external-link-alt"></i></a>] </p>
+</li>
+</ol>
+<h1 id="Conference"><a href="#Conference" class="headerlink" title="Conference"></a><em>Conference</em></h1><ol>
+<li><p><font color=red>[SANER 2022]</font> DualSC: Automatic Generation and Summarization of ShellCode via Transformer and Dual Learning.</p>
+<p> <strong>Guang Yang</strong>, Xiang Chen*, Yanlin Zhou and Chi Yu</p>
+<p> <em>THE 29th IEEE International Conference on Software Analysis, Evolution and Reengineering</em>. <font color=red>(CCF B，CORE A)</font></p>
+<p> [Link] [<a class="link"   href="https://github.com/NTDXYG/DualSC" >Github<i class="fas fa-external-link-alt"></i></a>]</p>
+</li>
+<li><p><font color=red>[SANER 2022]</font> SOTitle: A Transformer-based Post Title Generation Approach for Stack Overflow.</p>
+<p> Ke Liu, <strong>Guang Yang</strong>, Xiang Chen* and Chi Yu (Ke Liu and Guang Yang are co-first authors)</p>
+<p> <em>THE 29th IEEE International Conference on Software Analysis, Evolution and Reengineering</em>. <font color=red>(CCF B，CORE A)</font></p>
+<p> [Link] [<a class="link"   href="https://github.com/NTDXYG/SOTitle" >Github<i class="fas fa-external-link-alt"></i></a>] [<a class="link"   href="https://huggingface.co/NTUYG/SOTitle-Gen-T5" >Model<i class="fas fa-external-link-alt"></i></a>]</p>
+</li>
+<li><p><font color=red>[APSEC 2021]</font> Fine-grained Pseudo-code Generation Method via Code Feature Extraction and Transformer.</p>
+<p> <strong>Guang Yang</strong>, Yanlin Zhou, Xiang Chen* and Chi Yu</p>
+<p> <em>THE 28TH ASIA-PACIFIC SOFTWARE ENGINEERING CONFERENCE</em>. <font color=red>(CCF C，CORE B)</font></p>
+<p> [<a class="link"   href="https://arxiv.org/abs/2102.06360" >Link<i class="fas fa-external-link-alt"></i></a>] [<a class="link"   href="https://github.com/NTDXYG/DeepPseudo" >Github<i class="fas fa-external-link-alt"></i></a>]</p>
+</li>
+<li><p><font color=red>[SEKE 2021]</font> DeepSCC: Source Code Classification Based on Fine-Tuned RoBERTa.</p>
+<p> <strong>Guang Yang</strong>, Yanlin Zhou, Chi Yu and Xiang Chen*</p>
+<p> <em>The 33nd International Conference on Software Engineering and Knowledge Engineering</em>. <font color=red>(CCF C，CORE B)</font></p>
+<p> [<a class="link"   href="https://ksiresearch.org/seke/seke21paper/paper005.pdf" >Link<i class="fas fa-external-link-alt"></i></a>] [<a class="link"   href="https://huggingface.co/NTUYG/DeepSCC-RoBERTa" >Model<i class="fas fa-external-link-alt"></i></a>]</p>
+</li>
+<li><p><font color=red>[Internetware 2022]</font> EL-CodeBert: Better Exploiting CodeBert to Support Source Code-Related Classification Tasks.</p>
+<p> Ke Liu, <strong>Guang Yang</strong>, Xiang Chen* and Yanlin Zhou (Ke Liu and Guang Yang are co-first authors)</p>
+<p> The <em>13th Asia-Pacific Symposium on Internetware</em>. <font color=red>(EI 会议)</font></p>
+<p> [<a href="">Link</a>] [<a class="link"   href="https://github.com/NTDXYG/EL-CodeBert" >Github<i class="fas fa-external-link-alt"></i></a>]</p>
+</li>
+<li><p><font color=red>[DSA 2021]</font> ComFormer: Code Comment Generation via Transformer and Fusion Method-based Hybrid Code Representation.</p>
+<p><strong>Guang Yang</strong>, Xiang Chen*, Jinxin Cao, Shuyuan Xu, Zhanqi Cui, Chi Yu, Ke Liu</p>
+<p><em>THE 8th International Conference on Dependable Systems and Their Applications</em>. <font color=red>(EI会议)</font></p>
+<p>[<a class="link"   href="https://ieeexplore.ieee.org/abstract/document/9622968/" >Link<i class="fas fa-external-link-alt"></i></a>] [<a class="link"   href="https://github.com/NTDXYG/ComFormer" >Github<i class="fas fa-external-link-alt"></i></a>] [<a class="link"   href="https://huggingface.co/NTUYG/ComFormer" >Model<i class="fas fa-external-link-alt"></i></a>]</p>
+</li>
+<li><p><font color=red>[DSA 2021]</font> EKD-BSP: Bug Report Severity Prediction by Extracting Keywords from Description.</p>
+<p>Yanxin Jia, Xiang Chen*, Shuyuan Xu, <strong>Guang Yang</strong>, Jinxin Cao</p>
+<p><em>THE 8th International Conference on Dependable Systems and Their Applications</em>. <font color=red>(EI会议)</font></p>
+<p>[<a class="link"   href="https://ieeexplore.ieee.org/abstract/document/9623014" >Link<i class="fas fa-external-link-alt"></i></a>] </p>
+</li>
+</ol>
+]]></content>
+  </entry>
+  <entry>
+    <title>about</title>
+    <url>/about/index.html</url>
+    <content><![CDATA[<h2 id="About-Me"><a href="#About-Me" class="headerlink" title="About Me"></a>About Me</h2><img src="..\images\avatar.jpg" alt="avatar" style="zoom: 33%;" />
+
+<p>I am a Master’s student in the School of Information Science and Technology at Nantong University. I will graduate in July 2022 and will be enrolled in Nanjing University of Aeronautics and Astronautics for my PhD in September.</p>
+<p>My research mainly focuses on software engineering, such as intelligent software engineering, automatic generation of code comments, mining software libraries and so on.</p>
+<h2 id="Education"><a href="#Education" class="headerlink" title="Education"></a>Education</h2><p><strong>2019.7- Present</strong></p>
+<p>Nantong University, major in Computer Technology</p>
+<p><strong>2015.9 - 2019.7</strong></p>
+<p>Nantong University, major in Software Engineering</p>
+]]></content>
+  </entry>
+</search>
