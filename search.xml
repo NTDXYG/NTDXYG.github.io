@@ -81,30 +81,35 @@
 </li>
 </ol>
 <h1 id="Conference"><a href="#Conference" class="headerlink" title="Conference"></a><em>Conference</em></h1><ol>
+<li><p><font color=red>[ICSME 2022]</font> BASHEXPLAINER: Retrieval-Augmented Bash Code Comment Generation based on Fine-tuned CodeBERT.</p>
+<p> Chi Yu, <strong>Guang Yang</strong>, Xiang Chen*, Ke Liu and Yanlin Zhou (Chi Yu and Guang Yang are co-first authors)</p>
+<p> <em>THE 38th International Conference on Software Maintenance and Evolution</em>. <font color=red>(CCF B，CORE A)</font></p>
+<p> [Link] [Github]</p>
+</li>
 <li><p><font color=red>[SANER 2022]</font> DualSC: Automatic Generation and Summarization of ShellCode via Transformer and Dual Learning.</p>
-<p> <strong>Guang Yang</strong>, Xiang Chen*, Yanlin Zhou and Chi Yu</p>
-<p> <em>THE 29th IEEE International Conference on Software Analysis, Evolution and Reengineering</em>. <font color=red>(CCF B，CORE A)</font></p>
-<p> [Link] [<a class="link"   href="https://github.com/NTDXYG/DualSC" >Github<i class="fas fa-external-link-alt"></i></a>]</p>
+<p><strong>Guang Yang</strong>, Xiang Chen*, Yanlin Zhou and Chi Yu</p>
+<p><em>THE 29th IEEE International Conference on Software Analysis, Evolution and Reengineering</em>. <font color=red>(CCF B，CORE A)</font></p>
+<p>[Link] [<a class="link"   href="https://github.com/NTDXYG/DualSC" >Github<i class="fas fa-external-link-alt"></i></a>]</p>
 </li>
 <li><p><font color=red>[SANER 2022]</font> SOTitle: A Transformer-based Post Title Generation Approach for Stack Overflow.</p>
-<p> Ke Liu, <strong>Guang Yang</strong>, Xiang Chen* and Chi Yu (Ke Liu and Guang Yang are co-first authors)</p>
-<p> <em>THE 29th IEEE International Conference on Software Analysis, Evolution and Reengineering</em>. <font color=red>(CCF B，CORE A)</font></p>
-<p> [Link] [<a class="link"   href="https://github.com/NTDXYG/SOTitle" >Github<i class="fas fa-external-link-alt"></i></a>] [<a class="link"   href="https://huggingface.co/NTUYG/SOTitle-Gen-T5" >Model<i class="fas fa-external-link-alt"></i></a>]</p>
+<p>Ke Liu, <strong>Guang Yang</strong>, Xiang Chen* and Chi Yu (Ke Liu and Guang Yang are co-first authors)</p>
+<p><em>THE 29th IEEE International Conference on Software Analysis, Evolution and Reengineering</em>. <font color=red>(CCF B，CORE A)</font></p>
+<p>[Link] [<a class="link"   href="https://github.com/NTDXYG/SOTitle" >Github<i class="fas fa-external-link-alt"></i></a>] [<a class="link"   href="https://huggingface.co/NTUYG/SOTitle-Gen-T5" >Model<i class="fas fa-external-link-alt"></i></a>]</p>
 </li>
 <li><p><font color=red>[APSEC 2021]</font> Fine-grained Pseudo-code Generation Method via Code Feature Extraction and Transformer.</p>
-<p> <strong>Guang Yang</strong>, Yanlin Zhou, Xiang Chen* and Chi Yu</p>
-<p> <em>THE 28TH ASIA-PACIFIC SOFTWARE ENGINEERING CONFERENCE</em>. <font color=red>(CCF C，CORE B)</font></p>
-<p> [<a class="link"   href="https://arxiv.org/abs/2102.06360" >Link<i class="fas fa-external-link-alt"></i></a>] [<a class="link"   href="https://github.com/NTDXYG/DeepPseudo" >Github<i class="fas fa-external-link-alt"></i></a>]</p>
+<p><strong>Guang Yang</strong>, Yanlin Zhou, Xiang Chen* and Chi Yu</p>
+<p><em>THE 28TH ASIA-PACIFIC SOFTWARE ENGINEERING CONFERENCE</em>. <font color=red>(CCF C，CORE B)</font></p>
+<p>[<a class="link"   href="https://arxiv.org/abs/2102.06360" >Link<i class="fas fa-external-link-alt"></i></a>] [<a class="link"   href="https://github.com/NTDXYG/DeepPseudo" >Github<i class="fas fa-external-link-alt"></i></a>]</p>
 </li>
 <li><p><font color=red>[SEKE 2021]</font> DeepSCC: Source Code Classification Based on Fine-Tuned RoBERTa.</p>
-<p> <strong>Guang Yang</strong>, Yanlin Zhou, Chi Yu and Xiang Chen*</p>
-<p> <em>The 33nd International Conference on Software Engineering and Knowledge Engineering</em>. <font color=red>(CCF C，CORE B)</font></p>
-<p> [<a class="link"   href="https://ksiresearch.org/seke/seke21paper/paper005.pdf" >Link<i class="fas fa-external-link-alt"></i></a>] [<a class="link"   href="https://huggingface.co/NTUYG/DeepSCC-RoBERTa" >Model<i class="fas fa-external-link-alt"></i></a>]</p>
+<p><strong>Guang Yang</strong>, Yanlin Zhou, Chi Yu and Xiang Chen*</p>
+<p><em>The 33nd International Conference on Software Engineering and Knowledge Engineering</em>. <font color=red>(CCF C，CORE B)</font></p>
+<p>[<a class="link"   href="https://ksiresearch.org/seke/seke21paper/paper005.pdf" >Link<i class="fas fa-external-link-alt"></i></a>] [<a class="link"   href="https://huggingface.co/NTUYG/DeepSCC-RoBERTa" >Model<i class="fas fa-external-link-alt"></i></a>]</p>
 </li>
 <li><p><font color=red>[Internetware 2022]</font> EL-CodeBert: Better Exploiting CodeBert to Support Source Code-Related Classification Tasks.</p>
-<p> Ke Liu, <strong>Guang Yang</strong>, Xiang Chen* and Yanlin Zhou (Ke Liu and Guang Yang are co-first authors)</p>
-<p> The <em>13th Asia-Pacific Symposium on Internetware</em>. <font color=red>(EI 会议)</font></p>
-<p> [<a href="">Link</a>] [<a class="link"   href="https://github.com/NTDXYG/EL-CodeBert" >Github<i class="fas fa-external-link-alt"></i></a>]</p>
+<p>Ke Liu, <strong>Guang Yang</strong>, Xiang Chen* and Yanlin Zhou (Ke Liu and Guang Yang are co-first authors)</p>
+<p>The <em>13th Asia-Pacific Symposium on Internetware</em>. <font color=red>(EI 会议)</font></p>
+<p>[<a href="">Link</a>] [<a class="link"   href="https://github.com/NTDXYG/EL-CodeBert" >Github<i class="fas fa-external-link-alt"></i></a>]</p>
 </li>
 <li><p><font color=red>[DSA 2021]</font> ComFormer: Code Comment Generation via Transformer and Fusion Method-based Hybrid Code Representation.</p>
 <p><strong>Guang Yang</strong>, Xiang Chen*, Jinxin Cao, Shuyuan Xu, Zhanqi Cui, Chi Yu, Ke Liu</p>
