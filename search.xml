@@ -67,7 +67,7 @@
 <li><p><font color=red>[软件学报]</font> 基于双重信息检索的Bash代码注释自动生成方法。</p>
 <p> 陈翔，于池，<strong>杨光</strong>，濮雪莲，崔展齐</p>
 <p> <em>软件学报</em>. 2022, 拟录用. <font color=red>(EI期刊，中文CCF A，影响因子3.993)</font></p>
-<p> [<a href="">Link</a>] [<a class="link"   href="https://github.com/ExplainBash/explainbash" >Github<i class="fas fa-external-link-alt"></i></a>]</p>
+<p> [<a class="link"   href="http://www.jos.org.cn/jos/article/abstract/Li022" >Link<i class="fas fa-external-link-alt"></i></a>] [<a class="link"   href="https://github.com/ExplainBash/explainbash" >Github<i class="fas fa-external-link-alt"></i></a>]</p>
 </li>
 <li><p><font color=red>[吉林大学学报(理学版)]</font> 基于深度学习的Stack Overflow问题帖分类方法。</p>
 <p><strong>杨光</strong>, 贾焱鑫, 陈翔*, 许舒源</p>
@@ -89,17 +89,17 @@
 <li><p><font color=red>[SANER 2022]</font> DualSC: Automatic Generation and Summarization of ShellCode via Transformer and Dual Learning.</p>
 <p><strong>Guang Yang</strong>, Xiang Chen*, Yanlin Zhou and Chi Yu</p>
 <p><em>THE 29th IEEE International Conference on Software Analysis, Evolution and Reengineering</em>. <font color=red>(CCF B)</font></p>
-<p>[<a class="link"   href="https://arxiv.org/abs/2202.09785" >Link<i class="fas fa-external-link-alt"></i></a>] [<a class="link"   href="https://github.com/NTDXYG/DualSC" >Github<i class="fas fa-external-link-alt"></i></a>]</p>
+<p>[<a class="link"   href="https://ieeexplore.ieee.org/document/9825869" >Link<i class="fas fa-external-link-alt"></i></a>] [<a class="link"   href="https://github.com/NTDXYG/DualSC" >Github<i class="fas fa-external-link-alt"></i></a>]</p>
 </li>
 <li><p><font color=red>[SANER 2022]</font> SOTitle: A Transformer-based Post Title Generation Approach for Stack Overflow.</p>
 <p>Ke Liu, <strong>Guang Yang</strong>, Xiang Chen* and Chi Yu (Ke Liu and Guang Yang are co-first authors)</p>
 <p><em>THE 29th IEEE International Conference on Software Analysis, Evolution and Reengineering</em>. <font color=red>(CCF B)</font></p>
-<p>[<a class="link"   href="https://arxiv.org/abs/2202.09789" >Link<i class="fas fa-external-link-alt"></i></a>] [<a class="link"   href="https://github.com/NTDXYG/SOTitle" >Github<i class="fas fa-external-link-alt"></i></a>] [<a class="link"   href="https://huggingface.co/NTUYG/SOTitle-Gen-T5" >Model<i class="fas fa-external-link-alt"></i></a>]</p>
+<p>[<a class="link"   href="https://ieeexplore.ieee.org/document/9825881" >Link<i class="fas fa-external-link-alt"></i></a>] [<a class="link"   href="https://github.com/NTDXYG/SOTitle" >Github<i class="fas fa-external-link-alt"></i></a>] [<a class="link"   href="https://huggingface.co/NTUYG/SOTitle-Gen-T5" >Model<i class="fas fa-external-link-alt"></i></a>]</p>
 </li>
 <li><p><font color=red>[APSEC 2021]</font> Fine-grained Pseudo-code Generation Method via Code Feature Extraction and Transformer.</p>
 <p><strong>Guang Yang</strong>, Yanlin Zhou, Xiang Chen* and Chi Yu</p>
 <p><em>THE 28TH ASIA-PACIFIC SOFTWARE ENGINEERING CONFERENCE</em>. <font color=red>(CCF C)</font></p>
-<p>[<a class="link"   href="https://arxiv.org/abs/2102.06360" >Link<i class="fas fa-external-link-alt"></i></a>] [<a class="link"   href="https://github.com/NTDXYG/DeepPseudo" >Github<i class="fas fa-external-link-alt"></i></a>]</p>
+<p>[<a class="link"   href="https://ieeexplore.ieee.org/abstract/document/9712127" >Link<i class="fas fa-external-link-alt"></i></a>] [<a class="link"   href="https://github.com/NTDXYG/DeepPseudo" >Github<i class="fas fa-external-link-alt"></i></a>]</p>
 </li>
 <li><p><font color=red>[SEKE 2021]</font> DeepSCC: Source Code Classification Based on Fine-Tuned RoBERTa.</p>
 <p><strong>Guang Yang</strong>, Yanlin Zhou, Chi Yu and Xiang Chen*</p>
@@ -129,11 +129,14 @@
     <url>/about/index.html</url>
     <content><![CDATA[<h2 id="About-Me"><a href="#About-Me" class="headerlink" title="About Me"></a>About Me</h2><img src="..\images\avatar.jpg" alt="avatar" style="zoom: 33%;" />
 
-<p>I am a Master’s student in the School of Information Science and Technology at Nantong University. I will graduate in July 2022 and will be enrolled in Nanjing University of Aeronautics and Astronautics for my PhD in September.</p>
-<p>My research mainly focuses on software engineering, such as intelligent software engineering, automatic generation of code comments, mining software libraries and so on.</p>
-<h2 id="Education"><a href="#Education" class="headerlink" title="Education"></a>Education</h2><p><strong>2019.7- Present</strong></p>
+<p>I am a PhD student in the College of Computer Science and Technology of Nanjing University of Aeronautics and Astronautics.</p>
+<p>My research mainly focuses on software engineering, such as intelligent software engineering, automatic generation of source code, automatic generation of code comments, mining software libraries and so on.</p>
+<p>My advisor is Professor <a class="link"   href="https://csyuzhou.github.io/" >Yu Zhou<i class="fas fa-external-link-alt"></i></a> (周宇) and Professor <a class="link"   href="https://smartse.github.io/" >Xiang Chen<i class="fas fa-external-link-alt"></i></a> (陈翔).</p>
+<h2 id="Education"><a href="#Education" class="headerlink" title="Education"></a>Education</h2><p><strong>2022.09- present</strong></p>
+<p>Nanjing University of Aeronautics and Astronautics, major in Software Engineering</p>
+<p><strong>2019.09- 2022.06</strong></p>
 <p>Nantong University, major in Computer Technology</p>
-<p><strong>2015.9 - 2019.7</strong></p>
+<p><strong>2015.9 - 2019.6</strong></p>
 <p>Nantong University, major in Software Engineering</p>
 ]]></content>
   </entry>
