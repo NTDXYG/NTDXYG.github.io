@@ -51,36 +51,25 @@
 ]]></content>
   </entry>
   <entry>
+    <title>about</title>
+    <url>/about/index.html</url>
+    <content><![CDATA[<h2 id="About-Me"><a href="#About-Me" class="headerlink" title="About Me"></a>About Me</h2><img src="..\images\avatar.jpg" alt="avatar" style="zoom: 33%;" />
+
+<p>I am a PhD student in the College of Computer Science and Technology of Nanjing University of Aeronautics and Astronautics.</p>
+<p>My research mainly focuses on software engineering, such as intelligent software engineering, automatic generation of source code, automatic generation of code comments, mining software libraries and so on.</p>
+<p>My advisor is Professor <a class="link"   href="https://csyuzhou.github.io/" >Yu Zhou<i class="fas fa-external-link-alt"></i></a> (周宇) and Professor <a class="link"   href="https://smartse.github.io/" >Xiang Chen<i class="fas fa-external-link-alt"></i></a> (陈翔).</p>
+<h2 id="Education"><a href="#Education" class="headerlink" title="Education"></a>Education</h2><p><strong>2022.09- present</strong></p>
+<p>Nanjing University of Aeronautics and Astronautics, major in Software Engineering</p>
+<p><strong>2019.09- 2022.06</strong></p>
+<p>Nantong University, major in Computer Technology</p>
+<p><strong>2015.9 - 2019.6</strong></p>
+<p>Nantong University, major in Software Engineering</p>
+]]></content>
+  </entry>
+  <entry>
     <title>publications</title>
-    <url>/publications/index.html</url>
-    <content><![CDATA[<h1 id="Journal"><a href="#Journal" class="headerlink" title="Journal"></a><em>Journal</em></h1><ol>
-<li><p><font color=red>[KBS]</font> CCGIR: Information Retrieval-based Code Comment Generation Method for Smart Contracts.</p>
-<p> <strong>Guang Yang</strong>, Ke Liu, Xiang Chen*, Yanlin Zhou, Chi Yu, Hao Lin</p>
-<p> <em>Knowledge-Based Systems</em>. 2022, 237:107858. <font color=red>(SCI 一区，Top期刊，CCF C，影响因子8.038)</font></p>
-<p> [<a class="link"   href="https://www.sciencedirect.com/science/article/abs/pii/S0950705121010406" >Link<i class="fas fa-external-link-alt"></i></a>] [<a class="link"   href="https://github.com/NTDXYG/CCGIR" >Github<i class="fas fa-external-link-alt"></i></a>]</p>
-</li>
-<li><p><font color=red>[软件学报]</font> 代码注释自动生成方法综述。</p>
-<p>陈翔*, <strong>杨光</strong>, 崔展齐, 孟国柱, 王赞</p>
-<p><em>软件学报</em>. 2021, 32(07):2118-2141. <font color=red>(EI期刊，中文CCF A，影响因子3.993)</font></p>
-<p>[<a class="link"   href="http://www.jos.org.cn/jos/article/abstract/6258" >Link<i class="fas fa-external-link-alt"></i></a>]</p>
-</li>
-<li><p><font color=red>[软件学报]</font> 基于双重信息检索的Bash代码注释自动生成方法。</p>
-<p> 陈翔，于池，<strong>杨光</strong>，濮雪莲，崔展齐</p>
-<p> <em>软件学报</em>. 2022, 拟录用. <font color=red>(EI期刊，中文CCF A，影响因子3.993)</font></p>
-<p> [<a class="link"   href="http://www.jos.org.cn/jos/article/abstract/Li022" >Link<i class="fas fa-external-link-alt"></i></a>] [<a class="link"   href="https://github.com/ExplainBash/explainbash" >Github<i class="fas fa-external-link-alt"></i></a>]</p>
-</li>
-<li><p><font color=red>[吉林大学学报(理学版)]</font> 基于深度学习的Stack Overflow问题帖分类方法。</p>
-<p><strong>杨光</strong>, 贾焱鑫, 陈翔*, 许舒源</p>
-<p><em>吉林大学学报(理学版)</em>. 2021, 59 (4): 922-928. <font color=red>(北大核心，影响因子0.601)</font></p>
-<p>[<a class="link"   href="http://xuebao.jlu.edu.cn/lxb/CN/Y2021/V59/I4/922" >Link<i class="fas fa-external-link-alt"></i></a>] </p>
-</li>
-<li><p><font color=red>[计算机应用研究]</font> ORESP: 基于有序回归的软件缺陷严重程度预测方法。</p>
-<p>贾焱鑫, 陈翔*, 葛骅, <strong>杨光</strong>, 林浩</p>
-<p><em>计算机应用研究</em>. 2021,38(06):1815-1818. <font color=red>(北大核心，影响因子1.888)</font></p>
-<p>[<a class="link"   href="https://www.arocmag.com/article/01-2021-06-040.html" >Link<i class="fas fa-external-link-alt"></i></a>] </p>
-</li>
-</ol>
-<h1 id="Conference"><a href="#Conference" class="headerlink" title="Conference"></a><em>Conference</em></h1><ol>
+    <url>/conference/index.html</url>
+    <content><![CDATA[<h1 id="Conference"><a href="#Conference" class="headerlink" title="Conference"></a><em>Conference</em></h1><ol>
 <li><p><font color=red>[ICSME 2022]</font> BASHEXPLAINER: Retrieval-Augmented Bash Code Comment Generation based on Fine-tuned CodeBERT.</p>
 <p> Chi Yu, <strong>Guang Yang</strong>, Xiang Chen*, Ke Liu and Yanlin Zhou (Chi Yu and Guang Yang are co-first authors)</p>
 <p> <em>THE 38th International Conference on Software Maintenance and Evolution</em>. <font color=red>(CCF B)</font></p>
@@ -125,19 +114,35 @@
 ]]></content>
   </entry>
   <entry>
-    <title>about</title>
-    <url>/about/index.html</url>
-    <content><![CDATA[<h2 id="About-Me"><a href="#About-Me" class="headerlink" title="About Me"></a>About Me</h2><img src="..\images\avatar.jpg" alt="avatar" style="zoom: 33%;" />
-
-<p>I am a PhD student in the College of Computer Science and Technology of Nanjing University of Aeronautics and Astronautics.</p>
-<p>My research mainly focuses on software engineering, such as intelligent software engineering, automatic generation of source code, automatic generation of code comments, mining software libraries and so on.</p>
-<p>My advisor is Professor <a class="link"   href="https://csyuzhou.github.io/" >Yu Zhou<i class="fas fa-external-link-alt"></i></a> (周宇) and Professor <a class="link"   href="https://smartse.github.io/" >Xiang Chen<i class="fas fa-external-link-alt"></i></a> (陈翔).</p>
-<h2 id="Education"><a href="#Education" class="headerlink" title="Education"></a>Education</h2><p><strong>2022.09- present</strong></p>
-<p>Nanjing University of Aeronautics and Astronautics, major in Software Engineering</p>
-<p><strong>2019.09- 2022.06</strong></p>
-<p>Nantong University, major in Computer Technology</p>
-<p><strong>2015.9 - 2019.6</strong></p>
-<p>Nantong University, major in Software Engineering</p>
+    <title>publications</title>
+    <url>/journal/index.html</url>
+    <content><![CDATA[<h1 id="Journal"><a href="#Journal" class="headerlink" title="Journal"></a><em>Journal</em></h1><ol>
+<li><p><font color=red>[KBS]</font> CCGIR: Information Retrieval-based Code Comment Generation Method for Smart Contracts.</p>
+<p> <strong>Guang Yang</strong>, Ke Liu, Xiang Chen*, Yanlin Zhou, Chi Yu, Hao Lin</p>
+<p> <em>Knowledge-Based Systems</em>. 2022, 237:107858. <font color=red>(SCI 一区，Top期刊，CCF C，影响因子8.038)</font></p>
+<p> [<a class="link"   href="https://www.sciencedirect.com/science/article/abs/pii/S0950705121010406" >Link<i class="fas fa-external-link-alt"></i></a>] [<a class="link"   href="https://github.com/NTDXYG/CCGIR" >Github<i class="fas fa-external-link-alt"></i></a>]</p>
+</li>
+<li><p><font color=red>[软件学报]</font> 代码注释自动生成方法综述。</p>
+<p>陈翔*, <strong>杨光</strong>, 崔展齐, 孟国柱, 王赞</p>
+<p><em>软件学报</em>. 2021, 32(07):2118-2141. <font color=red>(EI期刊，中文CCF A，影响因子3.993)</font></p>
+<p>[<a class="link"   href="http://www.jos.org.cn/jos/article/abstract/6258" >Link<i class="fas fa-external-link-alt"></i></a>]</p>
+</li>
+<li><p><font color=red>[软件学报]</font> 基于双重信息检索的Bash代码注释自动生成方法。</p>
+<p> 陈翔，于池，<strong>杨光</strong>，濮雪莲，崔展齐</p>
+<p> <em>软件学报</em>. 2022, 拟录用. <font color=red>(EI期刊，中文CCF A，影响因子3.993)</font></p>
+<p> [<a class="link"   href="http://www.jos.org.cn/jos/article/abstract/Li022" >Link<i class="fas fa-external-link-alt"></i></a>] [<a class="link"   href="https://github.com/ExplainBash/explainbash" >Github<i class="fas fa-external-link-alt"></i></a>]</p>
+</li>
+<li><p><font color=red>[吉林大学学报(理学版)]</font> 基于深度学习的Stack Overflow问题帖分类方法。</p>
+<p><strong>杨光</strong>, 贾焱鑫, 陈翔*, 许舒源</p>
+<p><em>吉林大学学报(理学版)</em>. 2021, 59 (4): 922-928. <font color=red>(北大核心，影响因子0.601)</font></p>
+<p>[<a class="link"   href="http://xuebao.jlu.edu.cn/lxb/CN/Y2021/V59/I4/922" >Link<i class="fas fa-external-link-alt"></i></a>] </p>
+</li>
+<li><p><font color=red>[计算机应用研究]</font> ORESP: 基于有序回归的软件缺陷严重程度预测方法。</p>
+<p>贾焱鑫, 陈翔*, 葛骅, <strong>杨光</strong>, 林浩</p>
+<p><em>计算机应用研究</em>. 2021,38(06):1815-1818. <font color=red>(北大核心，影响因子1.888)</font></p>
+<p>[<a class="link"   href="https://www.arocmag.com/article/01-2021-06-040.html" >Link<i class="fas fa-external-link-alt"></i></a>] </p>
+</li>
+</ol>
 ]]></content>
   </entry>
 </search>
