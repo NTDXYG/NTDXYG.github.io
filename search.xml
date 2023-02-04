@@ -2,48 +2,58 @@
 <search>
   <entry>
     <title>Publications</title>
-    <url>/2021/09/11/Publications/</url>
-    <content><![CDATA[<h1 id="Journal"><a href="#Journal" class="headerlink" title="Journal"></a><em>Journal</em></h1><p>[1] <strong>杨光</strong>,贾焱鑫,陈翔,许舒源.基于深度学习的Stack Overflow问题帖分类方法[J].吉林大学学报(理学版),2021,59(04):922-928.</p>
-<p>[2] 贾焱鑫,陈翔,葛骅,<strong>杨光</strong>,林浩.ORESP:基于有序回归的软件缺陷严重程度预测方法[J].计算机应用研究,2021,38(06):1815-1818.</p>
-<p>[3] 陈翔,<strong>杨光</strong>,崔展齐,孟国柱,王赞.代码注释自动生成方法综述[J].软件学报,2021,32(07):2118-2141.</p>
-<h1 id="Conference"><a href="#Conference" class="headerlink" title="Conference"></a><em>Conference</em></h1><p>[1] <strong>Guang Yang</strong>, Yanlin Zhou, Chi Yu and Xiang Chen. “DeepSCC: Source Code Classification Based on Fine-Tuned RoBERTa” <em>The 33nd International Conference on Software Engineering and Knowledge Engineering (SEKE 2021)</em>, Accepted as a Short Paper</p>
-<p>[2] <strong>Guang Yang</strong>, Xiang Chen, Jinxin Cao, Shuyuan Xu, Zhanqi Cui, Chi Yu, Ke Liu. “ComFormer: Code Comment Generation via Transformer and Fusion Method-based Hybrid Code Representation” <em>8th International Conference on Dependable Systems and Their Applications (DSA 2021)</em>, Accepted as a Regular  Paper</p>
+    <url>/2021/09/11/index/</url>
+    <content><![CDATA[<h2 id="About-Me"><a href="#About-Me" class="headerlink" title="About Me"></a>About Me</h2><p>I am a PhD student in the College of Computer Science and Technology of Nanjing University of Aeronautics and Astronautics.</p>
+<p>My research mainly focuses on software engineering:</p>
+<ul>
+<li>Intelligent Software Engineering</li>
+<li>Automatic Generation of Source Code</li>
+<li>Automatic Generation of Code Comments</li>
+<li>Mining Software Repositories</li>
+</ul>
+<p>My advisor is Professor <a href="https://csyuzhou.github.io/">Yu Zhou</a> (周宇) and Professor <a href="https://smartse.github.io/">Xiang Chen</a> (陈翔).</p>
+<h2 id="Education"><a href="#Education" class="headerlink" title="Education"></a>Education</h2><p><strong>2022.09- present</strong></p>
+<p>Nanjing University of Aeronautics and Astronautics, major in Software Engineering</p>
+<p><strong>2019.09- 2022.06</strong></p>
+<p>Nantong University, major in Computer Technology</p>
+<p><strong>2015.9 - 2019.6</strong></p>
+<p>Nantong University, major in Software Engineering</p>
 ]]></content>
   </entry>
   <entry>
-    <title>honors</title>
+    <title>Honors</title>
     <url>/honors/index.html</url>
-    <content><![CDATA[<h1 id="Honors"><a href="#Honors" class="headerlink" title="Honors"></a><em>Honors</em></h1><ol>
+    <content><![CDATA[<ol>
 <li><p>硕士期间（南通大学）：</p>
-<p><strong>国家奖学金</strong>🏆 [<a class="link"   href="https://cdn.jsdelivr.net/gh/NTDXYG/image-hosting@master/20220524/%E5%9B%BD%E5%A5%96%E8%AF%81%E4%B9%A6.jpg" >Link<i class="fas fa-external-link-alt"></i></a>]、一等奖学金[<a class="link"   href="https://cdn.jsdelivr.net/gh/NTDXYG/image-hosting@master/20220524/%E5%A5%96%E5%AD%A6%E9%87%91.jpg" >Link<i class="fas fa-external-link-alt"></i></a>]、优秀研究生[<a class="link"   href="https://cdn.jsdelivr.net/gh/NTDXYG/image-hosting@master/20220524/%E4%BC%98%E7%A7%80%E7%A0%94%E7%A9%B6%E7%94%9F.jpg" >Link<i class="fas fa-external-link-alt"></i></a>]、优秀毕业研究生</p>
+<p><strong>国家奖学金</strong>🏆 [<a href="https://cdn.jsdelivr.net/gh/NTDXYG/image-hosting@master/20220524/%E5%9B%BD%E5%A5%96%E8%AF%81%E4%B9%A6.jpg">Link</a>]、一等奖学金[<a href="https://cdn.jsdelivr.net/gh/NTDXYG/image-hosting@master/20220524/%E5%A5%96%E5%AD%A6%E9%87%91.jpg">Link</a>]、优秀研究生[<a href="https://cdn.jsdelivr.net/gh/NTDXYG/image-hosting@master/20220524/%E4%BC%98%E7%A7%80%E7%A0%94%E7%A9%B6%E7%94%9F.jpg">Link</a>]、优秀毕业研究生</p>
 <p>平均每年综测排名：1/28</p>
 </li>
 <li><p>本科期间（南通大学）：</p>
-<p>二等奖学金[<a class="link"   href="https://cdn.jsdelivr.net/gh/NTDXYG/image-hosting@master/20220524/%E4%BA%8C%E7%AD%89%E5%A5%96%E5%AD%A6%E9%87%91-%E6%9C%AC%E7%A7%91.jpg" >Link<i class="fas fa-external-link-alt"></i></a>]、校优秀毕业设计[<a class="link"   href="https://cdn.jsdelivr.net/gh/NTDXYG/image-hosting@master/20220524/%E6%A0%A1%E4%BC%98%E7%A7%80%E6%AF%95%E8%AE%BE-%E6%9C%AC%E7%A7%91.jpg" >Link<i class="fas fa-external-link-alt"></i></a>]</p>
+<p>二等奖学金[<a href="https://cdn.jsdelivr.net/gh/NTDXYG/image-hosting@master/20220524/%E4%BA%8C%E7%AD%89%E5%A5%96%E5%AD%A6%E9%87%91-%E6%9C%AC%E7%A7%91.jpg">Link</a>]、校优秀毕业设计[<a href="https://cdn.jsdelivr.net/gh/NTDXYG/image-hosting@master/20220524/%E6%A0%A1%E4%BC%98%E7%A7%80%E6%AF%95%E8%AE%BE-%E6%9C%AC%E7%A7%91.jpg">Link</a>]</p>
 </li>
 </ol>
 <h1 id="Competitions"><a href="#Competitions" class="headerlink" title="Competitions"></a><em>Competitions</em></h1><h2 id="2021"><a href="#2021" class="headerlink" title="2021"></a>2021</h2><ol>
-<li><font color='red'>挑战杯“黑科技”专项竞赛</font>  全国  三等奖，江苏省  一等奖，南通大学  一等奖  2021 [<a class="link"   href="https://cdn.jsdelivr.net/gh/NTDXYG/image-hosting@master/20220524/%E6%8C%91%E6%88%98%E6%9D%AF-%E7%9C%81%E8%B5%9B.jpg" >Link<i class="fas fa-external-link-alt"></i></a>] [<a class="link"   href="https://cdn.jsdelivr.net/gh/NTDXYG/image-hosting@master/20220524/%E6%8C%91%E6%88%98%E6%9D%AF-%E5%9B%BD%E8%B5%9B.jpg" >Link<i class="fas fa-external-link-alt"></i></a>]</li>
-<li>第八届发现杯人工智能  全国  三等奖，华东赛区  一等奖，2021 [<a class="link"   href="https://cdn.jsdelivr.net/gh/NTDXYG/image-hosting@master/20220524/%E5%8F%91%E7%8E%B0%E6%9D%AF.jpg" >Link<i class="fas fa-external-link-alt"></i></a>]</li>
-<li>2021第四届全国大学生计算机技能应用大赛  全国  一等奖，2021 [<a class="link"   href="https://cdn.jsdelivr.net/gh/NTDXYG/image-hosting@master/20220524/%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%8A%80%E8%83%BD%E5%BA%94%E7%94%A8.jpg" >Link<i class="fas fa-external-link-alt"></i></a>]</li>
-<li>2020年第二届国际青年人工智能大赛  铜奖，2021 [<a class="link"   href="https://cdn.jsdelivr.net/gh/NTDXYG/image-hosting@master/20220524/%E5%9B%BD%E9%99%85%E9%9D%92%E5%B9%B4%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%A4%A7%E8%B5%9B.jpg" >Link<i class="fas fa-external-link-alt"></i></a>]</li>
-<li>2020年MathorCup高校数学建模挑战赛大数据竞赛  研究生组  三等奖，2021 [<a class="link"   href="https://cdn.jsdelivr.net/gh/NTDXYG/image-hosting@master/20220524/MathorCup.jpg" >Link<i class="fas fa-external-link-alt"></i></a>]</li>
-<li>2021第七届全国移动互联创新大赛  华东-华中赛区  银奖，2021 [<a class="link"   href="https://cdn.jsdelivr.net/gh/NTDXYG/image-hosting@master/20220524/2021%E7%AC%AC%E4%B8%83%E5%B1%8A%E5%85%A8%E5%9B%BD%E7%A7%BB%E5%8A%A8%E4%BA%92%E8%81%94%E5%88%9B%E6%96%B0%E5%A4%A7%E8%B5%9B.jpg" >Link<i class="fas fa-external-link-alt"></i></a>]</li>
-<li>2021年全国大学生数据统计与分析竞赛  全国  三等奖，2021 [<a class="link"   href="https://cdn.jsdelivr.net/gh/NTDXYG/image-hosting@master/20220524/%E6%95%B0%E6%8D%AE%E7%BB%9F%E8%AE%A1%E4%B8%8E%E5%88%86%E6%9E%90%E7%AB%9E%E8%B5%9B.jpg" >Link<i class="fas fa-external-link-alt"></i></a>]</li>
-<li>2021年中国高校计算机大赛微信小程序应用开发赛  华东赛区  三等奖，2021 [<a class="link"   href="https://cdn.jsdelivr.net/gh/NTDXYG/image-hosting@master/20220524/2021%E5%B9%B4%E4%B8%AD%E5%9B%BD%E9%AB%98%E6%A0%A1%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%A4%A7%E8%B5%9B%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E8%B5%9B.png" >Link<i class="fas fa-external-link-alt"></i></a>]</li>
+<li><font color='red'>挑战杯“黑科技”专项竞赛</font>  全国  三等奖，江苏省  一等奖，南通大学  一等奖  2021 [<a href="https://cdn.jsdelivr.net/gh/NTDXYG/image-hosting@master/20220524/%E6%8C%91%E6%88%98%E6%9D%AF-%E7%9C%81%E8%B5%9B.jpg">Link</a>] [<a href="https://cdn.jsdelivr.net/gh/NTDXYG/image-hosting@master/20220524/%E6%8C%91%E6%88%98%E6%9D%AF-%E5%9B%BD%E8%B5%9B.jpg">Link</a>]</li>
+<li>第八届发现杯人工智能  全国  三等奖，华东赛区  一等奖，2021 [<a href="https://cdn.jsdelivr.net/gh/NTDXYG/image-hosting@master/20220524/%E5%8F%91%E7%8E%B0%E6%9D%AF.jpg">Link</a>]</li>
+<li>2021第四届全国大学生计算机技能应用大赛  全国  一等奖，2021 [<a href="https://cdn.jsdelivr.net/gh/NTDXYG/image-hosting@master/20220524/%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%8A%80%E8%83%BD%E5%BA%94%E7%94%A8.jpg">Link</a>]</li>
+<li>2020年第二届国际青年人工智能大赛  铜奖，2021 [<a href="https://cdn.jsdelivr.net/gh/NTDXYG/image-hosting@master/20220524/%E5%9B%BD%E9%99%85%E9%9D%92%E5%B9%B4%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%A4%A7%E8%B5%9B.jpg">Link</a>]</li>
+<li>2020年MathorCup高校数学建模挑战赛大数据竞赛  研究生组  三等奖，2021 [<a href="https://cdn.jsdelivr.net/gh/NTDXYG/image-hosting@master/20220524/MathorCup.jpg">Link</a>]</li>
+<li>2021第七届全国移动互联创新大赛  华东-华中赛区  银奖，2021 [<a href="https://cdn.jsdelivr.net/gh/NTDXYG/image-hosting@master/20220524/2021%E7%AC%AC%E4%B8%83%E5%B1%8A%E5%85%A8%E5%9B%BD%E7%A7%BB%E5%8A%A8%E4%BA%92%E8%81%94%E5%88%9B%E6%96%B0%E5%A4%A7%E8%B5%9B.jpg">Link</a>]</li>
+<li>2021年全国大学生数据统计与分析竞赛  全国  三等奖，2021 [<a href="https://cdn.jsdelivr.net/gh/NTDXYG/image-hosting@master/20220524/%E6%95%B0%E6%8D%AE%E7%BB%9F%E8%AE%A1%E4%B8%8E%E5%88%86%E6%9E%90%E7%AB%9E%E8%B5%9B.jpg">Link</a>]</li>
+<li>2021年中国高校计算机大赛微信小程序应用开发赛  华东赛区  三等奖，2021 [<a href="https://cdn.jsdelivr.net/gh/NTDXYG/image-hosting@master/20220524/2021%E5%B9%B4%E4%B8%AD%E5%9B%BD%E9%AB%98%E6%A0%A1%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%A4%A7%E8%B5%9B%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E8%B5%9B.png">Link</a>]</li>
 </ol>
 <h2 id="2020"><a href="#2020" class="headerlink" title="2020"></a>2020</h2><ol>
-<li><font color = 'red'>2020年领航杯江苏省大学生信息技术应用能力比赛</font>  软件开发类  一等奖，2020 [<a class="link"   href="https://cdn.jsdelivr.net/gh/NTDXYG/image-hosting@master/20220524/%E9%A2%86%E8%88%AA%E6%9D%AF.jpg" >Link<i class="fas fa-external-link-alt"></i></a>]</li>
-<li><font color='red'>第17届华为杯中国研究生数学建模竞赛</font>  全国  二等奖，2020 [<a class="link"   href="https://cdn.jsdelivr.net/gh/NTDXYG/image-hosting@master/20220524/%E5%8D%8E%E4%B8%BA%E6%9D%AF.jpg" >Link<i class="fas fa-external-link-alt"></i></a>]</li>
-<li><font color='red'>第22届中国机器人及人工智能大赛</font>人工智能类创新赛  全国  一等奖，2020 [<a class="link"   href="https://cdn.jsdelivr.net/gh/NTDXYG/image-hosting@master/20220524/%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%8F%8A%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%A4%A7%E8%B5%9B.jpg" >Link<i class="fas fa-external-link-alt"></i></a>]</li>
-<li>2020年中国高校计算机大赛微信小程序应用开发赛  华东赛区  三等奖，2020 [<a class="link"   href="https://cdn.jsdelivr.net/gh/NTDXYG/image-hosting@master/20220524/2020%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F.png" >Link<i class="fas fa-external-link-alt"></i></a>]</li>
-<li>2020年全国移动互联创新大赛  华东赛区  三等奖，2020 [<a class="link"   href="https://cdn.staticaly.com/gh/NTDXYG/image-hosting@master/20220926/%E5%85%A8%E5%9B%BD%E7%A7%BB%E5%8A%A8%E4%BA%92%E8%81%94%E5%88%9B%E6%96%B0%E5%A4%A7%E8%B5%9B.2f2ip9li1tlw.webp" >Link<i class="fas fa-external-link-alt"></i></a>]</li>
-<li>2020年第十届全国大学生信息技术创新应用大赛  全国  三等奖，2020 [<a class="link"   href="https://cdn.jsdelivr.net/gh/NTDXYG/image-hosting@master/20220524/%E4%BF%A1%E6%81%AF%E6%8A%80%E6%9C%AF%E5%88%9B%E6%96%B0%E5%BA%94%E7%94%A8%E5%A4%A7%E8%B5%9B.jpg" >Link<i class="fas fa-external-link-alt"></i></a>]</li>
+<li><font color = 'red'>2020年领航杯江苏省大学生信息技术应用能力比赛</font>  软件开发类  一等奖，2020 [<a href="https://cdn.jsdelivr.net/gh/NTDXYG/image-hosting@master/20220524/%E9%A2%86%E8%88%AA%E6%9D%AF.jpg">Link</a>]</li>
+<li><font color='red'>第17届华为杯中国研究生数学建模竞赛</font>  全国  二等奖，2020 [<a href="https://cdn.jsdelivr.net/gh/NTDXYG/image-hosting@master/20220524/%E5%8D%8E%E4%B8%BA%E6%9D%AF.jpg">Link</a>]</li>
+<li><font color='red'>第22届中国机器人及人工智能大赛</font>人工智能类创新赛  全国  一等奖，2020 [<a href="https://cdn.jsdelivr.net/gh/NTDXYG/image-hosting@master/20220524/%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%8F%8A%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%A4%A7%E8%B5%9B.jpg">Link</a>]</li>
+<li>2020年中国高校计算机大赛微信小程序应用开发赛  华东赛区  三等奖，2020 [<a href="https://cdn.jsdelivr.net/gh/NTDXYG/image-hosting@master/20220524/2020%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F.png">Link</a>]</li>
+<li>2020年全国移动互联创新大赛  华东赛区  三等奖，2020 [<a href="https://cdn.staticaly.com/gh/NTDXYG/image-hosting@master/20220926/%E5%85%A8%E5%9B%BD%E7%A7%BB%E5%8A%A8%E4%BA%92%E8%81%94%E5%88%9B%E6%96%B0%E5%A4%A7%E8%B5%9B.2f2ip9li1tlw.webp">Link</a>]</li>
+<li>2020年第十届全国大学生信息技术创新应用大赛  全国  三等奖，2020 [<a href="https://cdn.jsdelivr.net/gh/NTDXYG/image-hosting@master/20220524/%E4%BF%A1%E6%81%AF%E6%8A%80%E6%9C%AF%E5%88%9B%E6%96%B0%E5%BA%94%E7%94%A8%E5%A4%A7%E8%B5%9B.jpg">Link</a>]</li>
 </ol>
 <h2 id="2019"><a href="#2019" class="headerlink" title="2019"></a>2019</h2><ol>
-<li>2019年中国高校计算机大赛微信小程序应用开发赛  华东赛区  一等奖，2019 [<a class="link"   href="https://cdn.jsdelivr.net/gh/NTDXYG/image-hosting@master/20220524/14.JPG" >Link<i class="fas fa-external-link-alt"></i></a>]</li>
-<li>2019年全国软件测试大赛开发者测试(个人)  华东赛区  三等奖 ，2019 [<a class="link"   href="https://cdn.jsdelivr.net/gh/NTDXYG/image-hosting@master/20220524/%E8%BD%AF%E4%BB%B6%E6%B5%8B%E8%AF%95.jpg" >Link<i class="fas fa-external-link-alt"></i></a>]</li>
-<li>2019年江苏省研究生数学建模科研创新实践大赛  三等奖，2019 [<a class="link"   href="https://cdn.jsdelivr.net/gh/NTDXYG/image-hosting@master/20220524/%E6%B1%9F%E8%8B%8F%E7%9C%81%E6%95%B0%E5%AD%A6%E5%BB%BA%E6%A8%A1.jpg" >Link<i class="fas fa-external-link-alt"></i></a>]</li>
+<li>2019年中国高校计算机大赛微信小程序应用开发赛  华东赛区  一等奖，2019 [<a href="https://cdn.jsdelivr.net/gh/NTDXYG/image-hosting@master/20220524/14.JPG">Link</a>]</li>
+<li>2019年全国软件测试大赛开发者测试(个人)  华东赛区  三等奖 ，2019 [<a href="https://cdn.jsdelivr.net/gh/NTDXYG/image-hosting@master/20220524/%E8%BD%AF%E4%BB%B6%E6%B5%8B%E8%AF%95.jpg">Link</a>]</li>
+<li>2019年江苏省研究生数学建模科研创新实践大赛  三等奖，2019 [<a href="https://cdn.jsdelivr.net/gh/NTDXYG/image-hosting@master/20220524/%E6%B1%9F%E8%8B%8F%E7%9C%81%E6%95%B0%E5%AD%A6%E5%BB%BA%E6%A8%A1.jpg">Link</a>]</li>
 </ol>
 <h2 id="2018"><a href="#2018" class="headerlink" title="2018"></a>2018</h2><ol>
 <li>第9届中国大学生服务外包创新创业大赛  全国  三等奖，2018 [丢失]</li>
@@ -56,8 +66,14 @@
     <content><![CDATA[<h2 id="About-Me"><a href="#About-Me" class="headerlink" title="About Me"></a>About Me</h2><img src="..\images\avatar.jpg" alt="avatar" style="zoom: 33%;" />
 
 <p>I am a PhD student in the College of Computer Science and Technology of Nanjing University of Aeronautics and Astronautics.</p>
-<p>My research mainly focuses on software engineering, such as intelligent software engineering, automatic generation of source code, automatic generation of code comments, mining software repositories and so on.</p>
-<p>My advisor is Professor <a class="link"   href="https://csyuzhou.github.io/" >Yu Zhou<i class="fas fa-external-link-alt"></i></a> (周宇) and Professor <a class="link"   href="https://smartse.github.io/" >Xiang Chen<i class="fas fa-external-link-alt"></i></a> (陈翔).</p>
+<p>My research mainly focuses on software engineering:</p>
+<ul>
+<li>Intelligent Software Engineering</li>
+<li>Automatic Generation of Source Code</li>
+<li>Automatic Generation of Code Comments</li>
+<li>Mining Software Repositories</li>
+</ul>
+<p>My advisor is Professor <a href="https://csyuzhou.github.io/">Yu Zhou</a> (周宇) and Professor <a href="https://smartse.github.io/">Xiang Chen</a> (陈翔).</p>
 <h2 id="Education"><a href="#Education" class="headerlink" title="Education"></a>Education</h2><p><strong>2022.09- present</strong></p>
 <p>Nanjing University of Aeronautics and Astronautics, major in Software Engineering</p>
 <p><strong>2019.09- 2022.06</strong></p>
@@ -67,90 +83,90 @@
 ]]></content>
   </entry>
   <entry>
-    <title>publications</title>
+    <title>Conference</title>
     <url>/conference/index.html</url>
-    <content><![CDATA[<h1 id="Conference"><a href="#Conference" class="headerlink" title="Conference"></a><em>Conference</em></h1><ol>
+    <content><![CDATA[<ol>
 <li><p><font color=red>[ICSME 2022]</font> BASHEXPLAINER: Retrieval-Augmented Bash Code Comment Generation based on Fine-tuned CodeBERT.</p>
 <p> Chi Yu, <strong>Guang Yang</strong>, Xiang Chen*, Ke Liu and Yanlin Zhou (Chi Yu and Guang Yang are co-first authors)</p>
 <p> <em>THE 38th International Conference on Software Maintenance and Evolution</em>. <font color=red>(CCF B)</font></p>
-<p> [<a class="link"   href="https://arxiv.org/abs/2206.13325" >Link<i class="fas fa-external-link-alt"></i></a>] [<a class="link"   href="https://github.com/NTDXYG/BASHEXPLAINER" >Github<i class="fas fa-external-link-alt"></i></a>]</p>
+<p> [<a href="https://arxiv.org/abs/2206.13325">Link</a>] [<a href="https://github.com/NTDXYG/BASHEXPLAINER">Github</a>]</p>
 </li>
 <li><p><font color=red>[SANER 2022]</font> DualSC: Automatic Generation and Summarization of ShellCode via Transformer and Dual Learning.</p>
 <p><strong>Guang Yang</strong>, Xiang Chen*, Yanlin Zhou and Chi Yu</p>
 <p><em>THE 29th IEEE International Conference on Software Analysis, Evolution and Reengineering</em>. <font color=red>(CCF B)</font></p>
-<p>[<a class="link"   href="https://ieeexplore.ieee.org/document/9825869" >Link<i class="fas fa-external-link-alt"></i></a>] [<a class="link"   href="https://github.com/NTDXYG/DualSC" >Github<i class="fas fa-external-link-alt"></i></a>]</p>
+<p>[<a href="https://ieeexplore.ieee.org/document/9825869">Link</a>] [<a href="https://github.com/NTDXYG/DualSC">Github</a>]</p>
 </li>
 <li><p><font color=red>[SANER 2022]</font> SOTitle: A Transformer-based Post Title Generation Approach for Stack Overflow.</p>
 <p>Ke Liu, <strong>Guang Yang</strong>, Xiang Chen* and Chi Yu (Ke Liu and Guang Yang are co-first authors)</p>
 <p><em>THE 29th IEEE International Conference on Software Analysis, Evolution and Reengineering</em>. <font color=red>(CCF B)</font></p>
-<p>[<a class="link"   href="https://ieeexplore.ieee.org/document/9825881" >Link<i class="fas fa-external-link-alt"></i></a>] [<a class="link"   href="https://github.com/NTDXYG/SOTitle" >Github<i class="fas fa-external-link-alt"></i></a>] [<a class="link"   href="https://huggingface.co/NTUYG/SOTitle-Gen-T5" >Model<i class="fas fa-external-link-alt"></i></a>]</p>
+<p>[<a href="https://ieeexplore.ieee.org/document/9825881">Link</a>] [<a href="https://github.com/NTDXYG/SOTitle">Github</a>] [<a href="https://huggingface.co/NTUYG/SOTitle-Gen-T5">Model</a>]</p>
 </li>
 <li><p><font color=red>[APSEC 2021]</font> Fine-grained Pseudo-code Generation Method via Code Feature Extraction and Transformer.</p>
 <p><strong>Guang Yang</strong>, Yanlin Zhou, Xiang Chen* and Chi Yu</p>
 <p><em>THE 28TH ASIA-PACIFIC SOFTWARE ENGINEERING CONFERENCE</em>. <font color=red>(CCF C)</font></p>
-<p>[<a class="link"   href="https://ieeexplore.ieee.org/abstract/document/9712127" >Link<i class="fas fa-external-link-alt"></i></a>] [<a class="link"   href="https://github.com/NTDXYG/DeepPseudo" >Github<i class="fas fa-external-link-alt"></i></a>]</p>
+<p>[<a href="https://ieeexplore.ieee.org/abstract/document/9712127">Link</a>] [<a href="https://github.com/NTDXYG/DeepPseudo">Github</a>]</p>
 </li>
 <li><p><font color=red>[SEKE 2021]</font> DeepSCC: Source Code Classification Based on Fine-Tuned RoBERTa.</p>
 <p><strong>Guang Yang</strong>, Yanlin Zhou, Chi Yu and Xiang Chen*</p>
 <p><em>The 33nd International Conference on Software Engineering and Knowledge Engineering</em>. <font color=red>(CCF C)</font></p>
-<p>[<a class="link"   href="https://ksiresearch.org/seke/seke21paper/paper005.pdf" >Link<i class="fas fa-external-link-alt"></i></a>] [<a class="link"   href="https://huggingface.co/NTUYG/DeepSCC-RoBERTa" >Model<i class="fas fa-external-link-alt"></i></a>]</p>
+<p>[<a href="https://ksiresearch.org/seke/seke21paper/paper005.pdf">Link</a>] [<a href="https://huggingface.co/NTUYG/DeepSCC-RoBERTa">Model</a>]</p>
 </li>
 <li><p><font color=red>[Internetware 2022]</font> EL-CodeBert: Better Exploiting CodeBert to Support Source Code-Related Classification Tasks.</p>
 <p>Ke Liu, <strong>Guang Yang</strong>, Xiang Chen* and Yanlin Zhou (Ke Liu and Guang Yang are co-first authors)</p>
 <p>The <em>13th Asia-Pacific Symposium on Internetware</em>. <font color=red>(CCF C)</font></p>
-<p>[<a class="link"   href="https://dl.acm.org/doi/10.1145/3545258.3545260" >Link<i class="fas fa-external-link-alt"></i></a>] [<a class="link"   href="https://github.com/NTDXYG/EL-CodeBert" >Github<i class="fas fa-external-link-alt"></i></a>]</p>
+<p>[<a href="https://dl.acm.org/doi/10.1145/3545258.3545260">Link</a>] [<a href="https://github.com/NTDXYG/EL-CodeBert">Github</a>]</p>
 </li>
 <li><p><font color=red>[DSA 2021]</font> ComFormer: Code Comment Generation via Transformer and Fusion Method-based Hybrid Code Representation.</p>
 <p><strong>Guang Yang</strong>, Xiang Chen*, Jinxin Cao, Shuyuan Xu, Zhanqi Cui, Chi Yu, Ke Liu</p>
 <p><em>THE 8th International Conference on Dependable Systems and Their Applications</em>. <font color=red>(EI会议)</font></p>
-<p>[<a class="link"   href="https://ieeexplore.ieee.org/abstract/document/9622968/" >Link<i class="fas fa-external-link-alt"></i></a>] [<a class="link"   href="https://github.com/NTDXYG/ComFormer" >Github<i class="fas fa-external-link-alt"></i></a>] [<a class="link"   href="https://huggingface.co/NTUYG/ComFormer" >Model<i class="fas fa-external-link-alt"></i></a>]</p>
+<p>[<a href="https://ieeexplore.ieee.org/abstract/document/9622968/">Link</a>] [<a href="https://github.com/NTDXYG/ComFormer">Github</a>] [<a href="https://huggingface.co/NTUYG/ComFormer">Model</a>]</p>
 </li>
 <li><p><font color=red>[DSA 2021]</font> EKD-BSP: Bug Report Severity Prediction by Extracting Keywords from Description.</p>
 <p>Yanxin Jia, Xiang Chen*, Shuyuan Xu, <strong>Guang Yang</strong>, Jinxin Cao</p>
 <p><em>THE 8th International Conference on Dependable Systems and Their Applications</em>. <font color=red>(EI会议)</font></p>
-<p>[<a class="link"   href="https://ieeexplore.ieee.org/abstract/document/9623014" >Link<i class="fas fa-external-link-alt"></i></a>] </p>
+<p>[<a href="https://ieeexplore.ieee.org/abstract/document/9623014">Link</a>] </p>
 </li>
 <li><p><font color=red>[ICBASE 2022]</font> BUG-T5: A Transformer-based Automatic Title Generation  Method for Bug Reports.</p>
 <p>Xinyi Tian*, Jingkun Wu, <strong>Guang Yang</strong></p>
 <p><em>The 3rd International Conference on Big Data &amp; Artificial Intelligence &amp; Software Engineering</em>. <font color=red>(EI会议)</font></p>
-<p>[<a class="link"   href="https://ceur-ws.org/Vol-3304/paper06.pdf" >Link<i class="fas fa-external-link-alt"></i></a>] </p>
+<p>[<a href="https://ceur-ws.org/Vol-3304/paper06.pdf">Link</a>] </p>
 </li>
 </ol>
 ]]></content>
   </entry>
   <entry>
-    <title>publications</title>
+    <title>Journal</title>
     <url>/journal/index.html</url>
-    <content><![CDATA[<h1 id="Journal"><a href="#Journal" class="headerlink" title="Journal"></a><em>Journal</em></h1><ol>
-<li><p><font color=red>[JSS]</font> ExploitGen: Template-Augmented Exploit Code Generation Based on CodeBERT.</p>
+    <content><![CDATA[<ol>
+<li><p><font color=red>[JSS 2023]</font> ExploitGen: Template-Augmented Exploit Code Generation Based on CodeBERT.</p>
 <p> <strong>Guang Yang</strong>, Yu Zhou*, Xiang Chen*, Xiangyu Zhang, Tingting Han, Taolue Chen*</p>
-<p> <em>Journal of Systems and Software</em>. 2022, . <font color=red>(SCI 二区，CCF B，影响因子3.514)</font></p>
-<p> [<a href="">Link</a>] [<a class="link"   href="https://github.com/NTDXYG/ExploitGen" >Github<i class="fas fa-external-link-alt"></i></a>]</p>
+<p> <em>Journal of Systems and Software</em>. 2023, 197: 111577. <font color=red>(SCI 二区，CCF B，影响因子3.514)</font></p>
+<p> [<a href="">Link</a>] [<a href="https://github.com/NTDXYG/ExploitGen">Github</a>]</p>
 </li>
-<li><p><font color=red>[KBS]</font> CCGIR: Information Retrieval-based Code Comment Generation Method for Smart Contracts.</p>
+<li><p><font color=red>[KBS 2022]</font> CCGIR: Information Retrieval-based Code Comment Generation Method for Smart Contracts.</p>
 <p><strong>Guang Yang</strong>, Ke Liu, Xiang Chen*, Yanlin Zhou, Chi Yu, Hao Lin</p>
-<p><em>Knowledge-Based Systems</em>. 2022, 237:107858. <font color=red>(SCI 一区，Top期刊，CCF C，影响因子8.038)</font></p>
-<p>[<a class="link"   href="https://www.sciencedirect.com/science/article/abs/pii/S0950705121010406" >Link<i class="fas fa-external-link-alt"></i></a>] [<a class="link"   href="https://github.com/NTDXYG/CCGIR" >Github<i class="fas fa-external-link-alt"></i></a>]</p>
+<p><em>Knowledge-Based Systems</em>. 2022, 237: 107858. <font color=red>(SCI 一区，Top期刊，CCF C，影响因子8.038)</font></p>
+<p>[<a href="https://www.sciencedirect.com/science/article/abs/pii/S0950705121010406">Link</a>] [<a href="https://github.com/NTDXYG/CCGIR">Github</a>]</p>
 </li>
-<li><p><font color=red>[软件学报]</font> 代码注释自动生成方法综述。</p>
+<li><p><font color=red>[软件学报 2021]</font> 代码注释自动生成方法综述。</p>
 <p>陈翔*, <strong>杨光</strong>, 崔展齐, 孟国柱, 王赞</p>
-<p><em>软件学报</em>. 2021, 32(07):2118-2141. <font color=red>(EI期刊，中文CCF A，影响因子3.993)</font></p>
-<p>[<a class="link"   href="http://www.jos.org.cn/jos/article/abstract/6258" >Link<i class="fas fa-external-link-alt"></i></a>]</p>
+<p><em>软件学报</em>. 2021, 32(07): 2118-2141. <font color=red>(EI期刊，中文CCF A，影响因子3.993)</font></p>
+<p>[<a href="http://www.jos.org.cn/jos/article/abstract/6258">Link</a>]</p>
 </li>
 <li><p><font color=red>[软件学报]</font> 基于双重信息检索的Bash代码注释自动生成方法。</p>
 <p>陈翔，于池，<strong>杨光</strong>，濮雪莲，崔展齐</p>
-<p><em>软件学报</em>. 2022, 拟录用. <font color=red>(EI期刊，中文CCF A，影响因子3.993)</font></p>
-<p>[<a class="link"   href="http://www.jos.org.cn/jos/article/abstract/Li022" >Link<i class="fas fa-external-link-alt"></i></a>] [<a class="link"   href="https://github.com/ExplainBash/explainbash" >Github<i class="fas fa-external-link-alt"></i></a>]</p>
+<p><em>软件学报</em>. 拟录用. <font color=red>(EI期刊，中文CCF A，影响因子3.993)</font></p>
+<p>[<a href="http://www.jos.org.cn/jos/article/abstract/Li022">Link</a>] [<a href="https://github.com/ExplainBash/explainbash">Github</a>]</p>
 </li>
-<li><p><font color=red>[吉林大学学报(理学版)]</font> 基于深度学习的Stack Overflow问题帖分类方法。</p>
+<li><p><font color=red>[吉林大学学报(理学版) 2021]</font> 基于深度学习的Stack Overflow问题帖分类方法。</p>
 <p><strong>杨光</strong>, 贾焱鑫, 陈翔*, 许舒源</p>
 <p><em>吉林大学学报(理学版)</em>. 2021, 59 (4): 922-928. <font color=red>(北大核心，影响因子0.601)</font></p>
-<p>[<a class="link"   href="http://xuebao.jlu.edu.cn/lxb/CN/Y2021/V59/I4/922" >Link<i class="fas fa-external-link-alt"></i></a>] </p>
+<p>[<a href="http://xuebao.jlu.edu.cn/lxb/CN/Y2021/V59/I4/922">Link</a>] </p>
 </li>
-<li><p><font color=red>[计算机应用研究]</font> ORESP: 基于有序回归的软件缺陷严重程度预测方法。</p>
+<li><p><font color=red>[计算机应用研究 2021]</font> ORESP: 基于有序回归的软件缺陷严重程度预测方法。</p>
 <p>贾焱鑫, 陈翔*, 葛骅, <strong>杨光</strong>, 林浩</p>
-<p><em>计算机应用研究</em>. 2021,38(06):1815-1818. <font color=red>(北大核心，影响因子1.888)</font></p>
-<p>[<a class="link"   href="https://www.arocmag.com/article/01-2021-06-040.html" >Link<i class="fas fa-external-link-alt"></i></a>] </p>
+<p><em>计算机应用研究</em>. 2021,38(06): 1815-1818. <font color=red>(北大核心，影响因子1.888)</font></p>
+<p>[<a href="https://www.arocmag.com/article/01-2021-06-040.html">Link</a>] </p>
 </li>
 </ol>
 ]]></content>
