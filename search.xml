@@ -89,7 +89,14 @@
   <entry>
     <title>Conference</title>
     <url>/conference/index.html</url>
-    <content><![CDATA[<h4 id="2022"><a href="#2022" class="headerlink" title="2022"></a><strong>2022</strong></h4><ol>
+    <content><![CDATA[<h4 id="2023"><a href="#2023" class="headerlink" title="2023"></a><strong>2023</strong></h4><ol>
+<li><p><font color=red>[COMPSAC 2023]</font> EDP-BGCNN: Effective Defect Prediction via BERT-based Graph Convolutional Neural Network.</p>
+<p>Hao Shen, Xiaolin Ju*, Xiang Chen and <u><strong>Guang Yang</strong></u></p>
+<p><em>47th IEEE Conference on Computers, Software &amp; Applications</em>. <font color=red>(CCF C)</font></p>
+<p>[<a href="">Link</a>] </p>
+</li>
+</ol>
+<h4 id="2022"><a href="#2022" class="headerlink" title="2022"></a><strong>2022</strong></h4><ol>
 <li><p><font color=red>[ICSME 2022]</font> BASHEXPLAINER: Retrieval-Augmented Bash Code Comment Generation based on Fine-tuned CodeBERT.</p>
 <p><u>Chi Yu</u>, <u><strong>Guang Yang</strong></u>, Xiang Chen*, Ke Liu and Yanlin Zhou (Chi Yu and Guang Yang are <strong>co-first authors</strong>)</p>
 <p><em>THE 38th International Conference on Software Maintenance and Evolution</em>. <font color=red>(CCF B)</font></p>
