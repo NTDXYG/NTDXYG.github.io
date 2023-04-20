@@ -146,12 +146,11 @@
 </li>
 </ol>
 <ol start="11">
-<li><font color=red>[DSA 2021]</font> ComFormer: Code Comment Generation via Transformer and Fusion Method-based Hybrid Code Representation.</li>
-</ol>
-<p>   <u><strong>Guang Yang</strong></u>, Xiang Chen*, Jinxin Cao, Shuyuan Xu, Zhanqi Cui, Chi Yu, Ke Liu</p>
-<p>   <em>THE 8th International Conference on Dependable Systems and Their Applications</em>. <font color=red>(EI会议)</font></p>
-<p>   [<a href="https://ieeexplore.ieee.org/abstract/document/9622968/">Link</a>] [<a href="https://github.com/NTDXYG/ComFormer">Github</a>] [<a href="https://huggingface.co/NTUYG/ComFormer">Model</a>]</p>
-<ol start="12">
+<li><p><font color=red>[DSA 2021]</font> ComFormer: Code Comment Generation via Transformer and Fusion Method-based Hybrid Code Representation.</p>
+<p><u><strong>Guang Yang</strong></u>, Xiang Chen*, Jinxin Cao, Shuyuan Xu, Zhanqi Cui, Chi Yu, Ke Liu</p>
+<p><em>THE 8th International Conference on Dependable Systems and Their Applications</em>. <font color=red>(EI会议)</font></p>
+<p>[<a href="https://ieeexplore.ieee.org/abstract/document/9622968/">Link</a>] [<a href="https://github.com/NTDXYG/ComFormer">Github</a>] [<a href="https://huggingface.co/NTUYG/ComFormer">Model</a>]</p>
+</li>
 <li><p><font color=red>[DSA 2021]</font> EKD-BSP: Bug Report Severity Prediction by Extracting Keywords from Description.</p>
 <p><u>Yanxin Jia</u>, Xiang Chen*, Shuyuan Xu, <strong>Guang Yang</strong>, Jinxin Cao*</p>
 <p>THE 8th International Conference on Dependable Systems and Their Applications*. <font color=red>(EI会议)</font></p>
