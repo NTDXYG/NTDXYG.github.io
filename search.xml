@@ -20,6 +20,7 @@
 <p>Nantong University, major in Software Engineering</p>
 <h2 id="Reviewers"><a href="#Reviewers" class="headerlink" title="Reviewers"></a>Reviewers</h2><ul>
 <li><a href="https://www.journals.elsevier.com/expert-systems-with-applications/">Expert Systems With Applications </a>(CCF C)</li>
+<li><a href="https://www.springer.com/journal/500/">Soft Computing</a> (CCF C)</li>
 </ul>
 <h2 id="Clustr-Maps"><a href="#Clustr-Maps" class="headerlink" title="Clustr Maps"></a>Clustr Maps</h2><p><a href='https://clustrmaps.com/site/1boa6'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=ffffff&w=200&t=m&d=fZe2X1N6zq08ZiTIeZ6SiuPTIr1scUj3p2PJRBlcj9k&co=2d78ad&ct=ffffff'/></a></p>
 ]]></content>
@@ -211,6 +212,14 @@
 <li><p><font color=red>[Under Review]</font> A Syntax-Guided Multi-Task Learning Approach for Turducken-Style Code Generation.</p>
 <p> <strong>Guang Yang</strong>, Yu Zhou*, Xiang Chen, Xiangyu Zhang, Yiran Xu, Tingting Han, Taolue Chen</p>
 <p> [<a href="https://arxiv.org/abs/2303.05061">Link</a>]</p>
+</li>
+<li><p><font color=red>[Under Review]</font> Guard2vul: Effective Vulnerability Detection Via Augmented Data and Sensitive Semantic.</p>
+<p> Hao Shen, Xiaolin Ju*, Wenjie Li, Xiang Chen,<strong>Guang Yang</strong></p>
+<p> [<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4450110">Link</a>]</p>
+</li>
+<li><p><font color=red>[Under Review]</font> Bash Comment Generation Via Data Augmentation and Semantic-Aware Codebert.</p>
+<p> Yiheng Shen, Xiaolin Ju*, Xiang Chen,<strong>Guang Yang</strong></p>
+<p> [<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4385791">Link</a>]</p>
 </li>
 </ol>
 ]]></content>
