@@ -21,6 +21,7 @@
 <h2 id="Reviewers"><a href="#Reviewers" class="headerlink" title="Reviewers"></a>Reviewers</h2><ul>
 <li><a href="https://www.journals.elsevier.com/expert-systems-with-applications/">Expert Systems With Applications </a>(CCF C)</li>
 <li><a href="https://www.springer.com/journal/500/">Soft Computing</a> (CCF C)</li>
+<li><a href="https://www.sciencedirect.com/journal/engineering-applications-of-artificial-intelligence">Engineering Applications of Artificial Intelligence</a> (CCF C)</li>
 </ul>
 <h2 id="Clustr-Maps"><a href="#Clustr-Maps" class="headerlink" title="Clustr Maps"></a>Clustr Maps</h2><p><a href='https://clustrmaps.com/site/1boa6'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=ffffff&w=200&t=m&d=fZe2X1N6zq08ZiTIeZ6SiuPTIr1scUj3p2PJRBlcj9k&co=2d78ad&ct=ffffff'/></a></p>
 ]]></content>
@@ -164,6 +165,10 @@
     <title>Journal</title>
     <url>/journal/index.html</url>
     <content><![CDATA[<h4 id="2023"><a href="#2023" class="headerlink" title="2023"></a><strong>2023</strong></h4><ol>
+<li><p><font color=red>[EMSE 2023]</font> A Syntax-Guided Multi-Task Learning Approach for Turducken-Style Code Generation.</p>
+<p><strong>Guang Yang</strong>, Yu Zhou*, Xiang Chen, Xiangyu Zhang, Yiran Xu, Tingting Han, Taolue Chen</p>
+<p>[<a href="https://arxiv.org/abs/2303.05061">Link</a>]</p>
+</li>
 <li><p><font color=red>[JSS 2023]</font> ExploitGen: Template-Augmented Exploit Code Generation Based on CodeBERT.</p>
 <p><u><strong>Guang Yang</strong></u>, Yu Zhou*, Xiang Chen*, Xiangyu Zhang, Tingting Han, Taolue Chen*</p>
 <p><em>Journal of Systems and Software</em>. 2023, 197: 111577. <font color=red>(SCI 二区，CCF B，影响因子3.514)</font></p>
@@ -208,10 +213,6 @@
 <li><p><font color=red>[Under Review]</font> How Important are Good Method Names in Neural Code Generation? A Model Robustness Perspective.</p>
 <p> <strong>Guang Yang</strong>, Yu Zhou*, Wenhua Yang, Tao Yue, Xiang Chen, Taolue Chen</p>
 <p> [<a href="https://arxiv.org/abs/2211.15844">Link</a>]</p>
-</li>
-<li><p><font color=red>[Under Review]</font> A Syntax-Guided Multi-Task Learning Approach for Turducken-Style Code Generation.</p>
-<p> <strong>Guang Yang</strong>, Yu Zhou*, Xiang Chen, Xiangyu Zhang, Yiran Xu, Tingting Han, Taolue Chen</p>
-<p> [<a href="https://arxiv.org/abs/2303.05061">Link</a>]</p>
 </li>
 <li><p><font color=red>[Under Review]</font> Guard2vul: Effective Vulnerability Detection Via Augmented Data and Sensitive Semantic.</p>
 <p> Hao Shen, Xiaolin Ju*, Wenjie Li, Xiang Chen,<strong>Guang Yang</strong></p>
