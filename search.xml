@@ -21,65 +21,65 @@
 <h2 id="Publications"><a href="#Publications" class="headerlink" title="Publications"></a>Publications</h2><table>
 <thead>
 <tr>
-<th><span style="width: 100px"> </span></th>
-<th><span style="width: 100px">一作</span></th>
-<th><span style="display:inline-block;width:100px">共一</span></th>
-<th><span style="display:inline-block;width:100px">合作</span></th>
 <th></th>
-<th><span style="display:inline-block;width:100px">总计</span></th>
+<th>一作</th>
+<th>共一</th>
+<th>合作</th>
+<th></th>
+<th>总计</th>
 </tr>
 </thead>
 <tbody><tr>
-<td><span style="width: 100px"> CCF A  </span></td>
-<td><span style="width: 100px">0</span></td>
-<td><span style="width: 100px">0</span></td>
-<td><span style="width: 100px">0</span></td>
+<td>CCF A</td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
 <td></td>
-<td><span style="width: 100px">0</span></td>
+<td>1</td>
 </tr>
 <tr>
-<td><span style="width: 100px"> CCF B  </span></td>
-<td><span style="width: 100px">3</span></td>
-<td><span style="width: 100px">2</span></td>
-<td><span style="width: 100px">0</span></td>
+<td>CCF B</td>
+<td>3</td>
+<td>2</td>
+<td>1</td>
 <td></td>
-<td><span style="width: 100px">5</span></td>
+<td>6</td>
 </tr>
 <tr>
-<td><span style="width: 100px"> CCF C  </span></td>
-<td><span style="width: 100px">3</span></td>
-<td><span style="width: 100px">1</span></td>
-<td><span style="width: 100px">3</span></td>
+<td>CCF C</td>
+<td>3</td>
+<td>1</td>
+<td>3</td>
 <td></td>
-<td><span style="width: 100px">7</span></td>
+<td>7</td>
 </tr>
 <tr>
-<td><span style="width: 100px"> 三大学报</span></td>
-<td><span style="width: 100px">0</span></td>
-<td><span style="width: 100px">0</span></td>
-<td><span style="width: 100px">2</span></td>
+<td>三大学报</td>
+<td>0</td>
+<td>0</td>
+<td>2</td>
 <td></td>
-<td><span style="width: 100px">2</span></td>
+<td>2</td>
 </tr>
 <tr>
-<td><span style="width: 100px"> 其他  </span></td>
-<td><span style="width: 100px">2</span></td>
-<td><span style="width: 100px">0</span></td>
-<td><span style="width: 100px">4</span></td>
+<td>其他</td>
+<td>2</td>
+<td>0</td>
+<td>4</td>
 <td></td>
-<td><span style="width: 100px">6</span></td>
+<td>6</td>
 </tr>
 <tr>
-<td><span style="width: 100px"> 总计  </span></td>
-<td><span style="width: 100px">8</span></td>
-<td><span style="width: 100px">3</span></td>
-<td><span style="width: 100px">9</span></td>
+<td>总计</td>
+<td>9</td>
+<td>3</td>
+<td>10</td>
 <td></td>
-<td><span style="width: 100px">20</span></td>
+<td>22</td>
 </tr>
 </tbody></table>
 <h2 id="Reviewers"><a href="#Reviewers" class="headerlink" title="Reviewers"></a>Reviewers</h2><ul>
-<li>EMNLP 2023 (CCF B)</li>
+<li><a href="https://openreview.net/group?id=EMNLP/2023/Conference">EMNLP 2023</a> (CCF B)</li>
 <li><a href="https://www.journals.elsevier.com/expert-systems-with-applications/">Expert Systems With Applications </a>(CCF C)</li>
 <li><a href="https://www.springer.com/journal/500/">Soft Computing</a> (CCF C)</li>
 <li><a href="https://www.sciencedirect.com/journal/engineering-applications-of-artificial-intelligence">Engineering Applications of Artificial Intelligence</a> (CCF C)</li>
@@ -153,71 +153,63 @@
     <title>Conference</title>
     <url>/conference/index.html</url>
     <content><![CDATA[<h4 id="2023"><a href="#2023" class="headerlink" title="2023"></a><strong>2023</strong></h4><ol>
+<li><p><font color=red>[EMNLP 2023 findings]</font> Syntax-Aware Retrieval Augmented Code Generation.</p>
+<p>Xiangyu Zhang, Yu Zhou*, <strong>Guang Yang</strong>, and Taolue Chen</p>
+<p>[<a href="">Link</a>] <strong>CCF-B</strong></p>
+</li>
 <li><p><font color=red>[COMPSAC 2023]</font> EDP-BGCNN: Effective Defect Prediction via BERT-based Graph Convolutional Neural Network.</p>
-<p>Hao Shen, Xiaolin Ju*, Xiang Chen and <u><strong>Guang Yang</strong></u></p>
-<p><em>THE 47th IEEE Conference on Computers, Software &amp; Applications</em>. <font color=red>(CCF C)</font></p>
-<p>[<a href="">Link</a>] </p>
+<p><u>Hao Shen</u>, Xiaolin Ju*, Xiang Chen and <strong>Guang Yang</strong></p>
+<p>[<a href="">Link</a>] <strong>CCF-C</strong></p>
 </li>
 <li><p><font color=red>[SEKE 2023]</font> CCGRA: Smart Contract Code Comment Generation with Retrieval-enhanced Approach.</p>
-<p>Zhenhua Zhang, Shizhan Chen, Guodong Fan, <u><strong>Guang Yang</strong></u> and Zhiyong Feng*</p>
-<p><em>The 35nd International Conference on Software Engineering and Knowledge Engineering</em>. <font color=red>(CCF C)</font></p>
-<p>[<a href="">Link</a>]</p>
+<p><u>Zhenhua Zhang</u>, Shizhan Chen, Guodong Fan, <strong>Guang Yang</strong> and Zhiyong Feng*</p>
+<p>[<a href="">Link</a>] <strong>CCF-C</strong></p>
 </li>
 <li><p><font color=red>[SEKE 2023]</font> An Empirical Study of Adversarial Training in Code Comment Generation.</p>
-<p>Yiheng Shen, Xiaolin Ju*, Xiang Chen and <u><strong>Guang Yang</strong></u></p>
-<p><em>The 35nd International Conference on Software Engineering and Knowledge Engineering</em>. <font color=red>(CCF C)</font></p>
-<p>[<a href="">Link</a>]</p>
+<p><u>Yiheng Shen</u>, Xiaolin Ju*, Xiang Chen and <strong>Guang Yang</strong></p>
+<p>[<a href="">Link</a>] <strong>CCF-C</strong></p>
 </li>
 </ol>
-<h4 id="2022"><a href="#2022" class="headerlink" title="2022"></a><strong>2022</strong></h4><ol start="4">
+<h4 id="2022"><a href="#2022" class="headerlink" title="2022"></a><strong>2022</strong></h4><ol start="5">
 <li><p><font color=red>[ICSME 2022]</font> BASHEXPLAINER: Retrieval-Augmented Bash Code Comment Generation based on Fine-tuned CodeBERT.</p>
 <p><u>Chi Yu</u>, <u><strong>Guang Yang</strong></u>, Xiang Chen*, Ke Liu and Yanlin Zhou (Chi Yu and Guang Yang are <strong>co-first authors</strong>)</p>
-<p><em>THE 38th International Conference on Software Maintenance and Evolution</em>. <font color=red>(CCF B)</font></p>
-<p>[<a href="https://arxiv.org/abs/2206.13325">Link</a>] [<a href="https://github.com/NTDXYG/BASHEXPLAINER">Github</a>]</p>
+<p>[<a href="https://arxiv.org/abs/2206.13325">Link</a>] [<a href="https://github.com/NTDXYG/BASHEXPLAINER">Github</a>] <strong>CCF-B</strong></p>
 </li>
 <li><p><font color=red>[SANER 2022]</font> DualSC: Automatic Generation and Summarization of ShellCode via Transformer and Dual Learning.</p>
 <p><u><strong>Guang Yang</strong></u>, Xiang Chen*, Yanlin Zhou and Chi Yu</p>
-<p><em>THE 29th IEEE International Conference on Software Analysis, Evolution and Reengineering</em>. <font color=red>(CCF B)</font></p>
-<p>[<a href="https://ieeexplore.ieee.org/document/9825869">Link</a>] [<a href="https://github.com/NTDXYG/DualSC">Github</a>]</p>
+<p>[<a href="https://ieeexplore.ieee.org/document/9825869">Link</a>] [<a href="https://github.com/NTDXYG/DualSC">Github</a>] <strong>CCF-B</strong></p>
 </li>
 <li><p><font color=red>[SANER 2022]</font> SOTitle: A Transformer-based Post Title Generation Approach for Stack Overflow.</p>
 <p><u>Ke Liu</u>, <u><strong>Guang Yang</strong></u>, Xiang Chen* and Chi Yu (Ke Liu and Guang Yang are <strong>co-first authors</strong>)</p>
-<p><em>THE 29th IEEE International Conference on Software Analysis, Evolution and Reengineering</em>. <font color=red>(CCF B)</font></p>
-<p>[<a href="https://ieeexplore.ieee.org/document/9825881">Link</a>] [<a href="https://github.com/NTDXYG/SOTitle">Github</a>] [<a href="https://huggingface.co/NTUYG/SOTitle-Gen-T5">Model</a>]</p>
+<p>[<a href="https://ieeexplore.ieee.org/document/9825881">Link</a>] [<a href="https://github.com/NTDXYG/SOTitle">Github</a>] [<a href="https://huggingface.co/NTUYG/SOTitle-Gen-T5">Model</a>] <strong>CCF-B</strong></p>
 </li>
 <li><p><font color=red>[Internetware 2022]</font> EL-CodeBert: Better Exploiting CodeBert to Support Source Code-Related Classification Tasks.</p>
 <p><u>Ke Liu</u>, <u><strong>Guang Yang</strong></u>, Xiang Chen* and Yanlin Zhou (Ke Liu and Guang Yang are <strong>co-first authors</strong>)</p>
-<p>The <em>13th Asia-Pacific Symposium on Internetware</em>. <font color=red>(CCF C)</font></p>
-<p>[<a href="https://dl.acm.org/doi/10.1145/3545258.3545260">Link</a>] [<a href="https://github.com/NTDXYG/EL-CodeBert">Github</a>]</p>
+<p>[<a href="https://dl.acm.org/doi/10.1145/3545258.3545260">Link</a>] [<a href="https://github.com/NTDXYG/EL-CodeBert">Github</a>] <strong>CCF-C</strong></p>
 </li>
 <li><p><font color=red>[ICBASE 2022]</font> BUG-T5: A Transformer-based Automatic Title Generation  Method for Bug Reports.</p>
 <p>Xinyi Tian*, Jingkun Wu, <strong>Guang Yang</strong></p>
-<p><em>The 3rd International Conference on Big Data &amp; Artificial Intelligence &amp; Software Engineering</em>. <font color=red>(EI会议)</font></p>
-<p>[<a href="https://ceur-ws.org/Vol-3304/paper06.pdf">Link</a>] </p>
+<p>[<a href="https://ceur-ws.org/Vol-3304/paper06.pdf">Link</a>] <strong>EI</strong></p>
 </li>
 </ol>
-<h4 id="2021"><a href="#2021" class="headerlink" title="2021"></a><strong>2021</strong></h4><ol start="9">
+<h4 id="2021"><a href="#2021" class="headerlink" title="2021"></a><strong>2021</strong></h4><ol start="10">
 <li><p><font color=red>[APSEC 2021]</font> Fine-grained Pseudo-code Generation Method via Code Feature Extraction and Transformer.</p>
 <p><u><strong>Guang Yang</strong></u>, Yanlin Zhou, Xiang Chen* and Chi Yu</p>
-<p><em>THE 28TH ASIA-PACIFIC SOFTWARE ENGINEERING CONFERENCE</em>. <font color=red>(CCF C)</font></p>
-<p>[<a href="https://ieeexplore.ieee.org/abstract/document/9712127">Link</a>] [<a href="https://github.com/NTDXYG/DeepPseudo">Github</a>]</p>
+<p>[<a href="https://ieeexplore.ieee.org/abstract/document/9712127">Link</a>] [<a href="https://github.com/NTDXYG/DeepPseudo">Github</a>] <strong>CCF-C</strong></p>
 </li>
 <li><p><font color=red>[SEKE 2021]</font> DeepSCC: Source Code Classification Based on Fine-Tuned RoBERTa.</p>
 <p><u><strong>Guang Yang</strong></u>, Yanlin Zhou, Chi Yu and Xiang Chen*</p>
-<p><em>The 33nd International Conference on Software Engineering and Knowledge Engineering</em>. <font color=red>(CCF C)</font></p>
-<p>[<a href="https://ksiresearch.org/seke/seke21paper/paper005.pdf">Link</a>] [<a href="https://huggingface.co/NTUYG/DeepSCC-RoBERTa">Model</a>]</p>
+<p>[<a href="https://ksiresearch.org/seke/seke21paper/paper005.pdf">Link</a>] [<a href="https://huggingface.co/NTUYG/DeepSCC-RoBERTa">Model</a>] <strong>CCF-C</strong></p>
 </li>
 </ol>
-<ol start="11">
+<ol start="12">
 <li><p><font color=red>[DSA 2021]</font> ComFormer: Code Comment Generation via Transformer and Fusion Method-based Hybrid Code Representation.</p>
 <p><u><strong>Guang Yang</strong></u>, Xiang Chen*, Jinxin Cao, Shuyuan Xu, Zhanqi Cui, Chi Yu, Ke Liu</p>
-<p><em>THE 8th International Conference on Dependable Systems and Their Applications</em>. <font color=red>(EI会议)</font></p>
-<p>[<a href="https://ieeexplore.ieee.org/abstract/document/9622968/">Link</a>] [<a href="https://github.com/NTDXYG/ComFormer">Github</a>] [<a href="https://huggingface.co/NTUYG/ComFormer">Model</a>]</p>
+<p>[<a href="https://ieeexplore.ieee.org/abstract/document/9622968/">Link</a>] [<a href="https://github.com/NTDXYG/ComFormer">Github</a>] [<a href="https://huggingface.co/NTUYG/ComFormer">Model</a>] <strong>EI</strong></p>
 </li>
 <li><p><font color=red>[DSA 2021]</font> EKD-BSP: Bug Report Severity Prediction by Extracting Keywords from Description.</p>
-<p><u>Yanxin Jia</u>, Xiang Chen*, Shuyuan Xu, <strong>Guang Yang</strong>, Jinxin Cao*</p>
-<p>THE 8th International Conference on Dependable Systems and Their Applications*. <font color=red>(EI会议)</font></p>
-<p>[<a href="https://ieeexplore.ieee.org/abstract/document/9623014">Link</a>] </p>
+<p><u>Yanxin Jia</u>, Xiang Chen*, Shuyuan Xu, <strong>Guang Yang</strong>, Jinxin Cao</p>
+<p>[<a href="https://ieeexplore.ieee.org/abstract/document/9623014">Link</a>] <strong>EI</strong></p>
 </li>
 </ol>
 ]]></content>
@@ -226,49 +218,45 @@
     <title>Journal</title>
     <url>/journal/index.html</url>
     <content><![CDATA[<h4 id="2023"><a href="#2023" class="headerlink" title="2023"></a><strong>2023</strong></h4><ol>
+<li><p><font color=red>[TOSEM 2023]</font> How Important are Good Method Names in Neural Code Generation? A Model Robustness Perspective.</p>
+<p><u><strong>Guang Yang</strong></u>, Yu Zhou*, Wenhua Yang, Tao Yue, Xiang Chen, Taolue Chen*</p>
+<p>[<a href="https://arxiv.org/abs/2211.15844">Link</a>] To appear <strong>SCI 一区，CCF A，影响因子4.4</strong></p>
+</li>
 <li><p><font color=red>[EMSE 2023]</font> A Syntax-Guided Multi-Task Learning Approach for Turducken-Style Code Generation.</p>
-<p><strong>Guang Yang</strong>, Yu Zhou*, Xiang Chen, Xiangyu Zhang, Yiran Xu, Tingting Han, Taolue Chen</p>
-<p>To appear  <font color=red>(SCI 二区，CCF B，影响因子4.1)</font></p>
-<p>[<a href="https://arxiv.org/abs/2303.05061">Link</a>]</p>
+<p><u><strong>Guang Yang</strong></u>, Yu Zhou*, Xiang Chen, Xiangyu Zhang, Yiran Xu, Tingting Han, Taolue Chen</p>
+<p>[<a href="https://arxiv.org/abs/2303.05061">Link</a>] To appear <strong>SCI 二区，CCF B，影响因子4.1</strong></p>
 </li>
 <li><p><font color=red>[JSS 2023]</font> ExploitGen: Template-Augmented Exploit Code Generation Based on CodeBERT.</p>
 <p><u><strong>Guang Yang</strong></u>, Yu Zhou*, Xiang Chen*, Xiangyu Zhang, Tingting Han, Taolue Chen*</p>
-<p><em>Journal of Systems and Software</em>. 2023, 197: 111577. <font color=red>(SCI 二区，CCF B，影响因子3.514)</font></p>
-<p>[<a href="">Link</a>] [<a href="https://github.com/NTDXYG/ExploitGen">Github</a>]</p>
+<p>[<a href="">Link</a>] [<a href="https://github.com/NTDXYG/ExploitGen">Github</a>] <strong>SCI 二区，CCF B，影响因子3.514</strong></p>
 </li>
 <li><p><font color=red>[软件学报]</font> 基于双重信息检索的Bash代码注释自动生成方法。</p>
 <p><u>陈翔</u>，于池，<strong>杨光</strong>，濮雪莲，崔展齐</p>
-<p><em>软件学报</em>. 2023, 34(3): 1310-1329. <font color=red>(EI期刊，中文CCF A，影响因子3.993)</font></p>
-<p>[<a href="http://www.jos.org.cn/jos/article/abstract/Li022">Link</a>] [<a href="https://github.com/ExplainBash/explainbash">Github</a>]</p>
+<p>[<a href="http://www.jos.org.cn/jos/article/abstract/Li022">Link</a>] [<a href="https://github.com/ExplainBash/explainbash">Github</a>] <strong>EI期刊，中文CCF A，影响因子3.993</strong></p>
 </li>
 <li><p><font color=red>[计算机系统应用]</font> 基于对抗扰动和局部信息增强的进阀温度预测.</p>
 <p>吴 皓, 周宇*, 张硕桦, <strong>杨光</strong></p>
-<p>To appear. <font color=red>()</font></p>
-<p>[<a href="https://www.sciencedirect.com/science/article/abs/pii/S0950705121010406">Link</a>] [<a href="https://github.com/NTDXYG/CCGIR">Github</a>]</p>
+<p>[<a href="https://www.sciencedirect.com/science/article/abs/pii/S0950705121010406">Link</a>] [<a href="https://github.com/NTDXYG/CCGIR">Github</a>] <strong>中文CCF C</strong></p>
 </li>
 </ol>
-<h4 id="2022"><a href="#2022" class="headerlink" title="2022"></a><strong>2022</strong></h4><ol start="5">
+<h4 id="2022"><a href="#2022" class="headerlink" title="2022"></a><strong>2022</strong></h4><ol start="6">
 <li><p><font color=red>[KBS 2022]</font> CCGIR: Information Retrieval-based Code Comment Generation Method for Smart Contracts.</p>
 <p><u><strong>Guang Yang</strong></u>, Ke Liu, Xiang Chen*, Yanlin Zhou, Chi Yu, Hao Lin</p>
-<p><em>Knowledge-Based Systems</em>. 2022, 237: 107858. <font color=red>(SCI 一区，Top期刊，CCF C，影响因子8.038)</font></p>
-<p>[<a href="https://www.sciencedirect.com/science/article/abs/pii/S0950705121010406">Link</a>] [<a href="https://github.com/NTDXYG/CCGIR">Github</a>]</p>
+<p>[<a href="https://www.sciencedirect.com/science/article/abs/pii/S0950705121010406">Link</a>] [<a href="https://github.com/NTDXYG/CCGIR">Github</a>] <strong>SCI 一区，Top期刊，CCF C，影响因子8.038</strong></p>
 </li>
 </ol>
-<h4 id="2021"><a href="#2021" class="headerlink" title="2021"></a><strong>2021</strong></h4><ol start="6">
+<h4 id="2021"><a href="#2021" class="headerlink" title="2021"></a><strong>2021</strong></h4><ol start="7">
 <li><p><font color=red>[软件学报 2021]</font> 代码注释自动生成方法综述。</p>
 <p><u>陈翔*</u>, <strong>杨光</strong>, 崔展齐, 孟国柱, 王赞</p>
-<p><em>软件学报</em>. 2021, 32(07): 2118-2141. <font color=red>(EI期刊，中文CCF A，影响因子3.993)</font></p>
-<p>[<a href="http://www.jos.org.cn/jos/article/abstract/6258">Link</a>]</p>
+<p>[<a href="http://www.jos.org.cn/jos/article/abstract/6258">Link</a>] <strong>EI期刊，中文CCF A，影响因子3.993</strong></p>
 </li>
 <li><p><font color=red>[吉林大学学报(理学版) 2021]</font> 基于深度学习的Stack Overflow问题帖分类方法。</p>
 <p><u><strong>杨光</strong></u>, 贾焱鑫, 陈翔*, 许舒源</p>
-<p><em>吉林大学学报(理学版)</em>. 2021, 59 (4): 922-928. <font color=red>(北大核心，影响因子0.601)</font></p>
-<p>[<a href="http://xuebao.jlu.edu.cn/lxb/CN/Y2021/V59/I4/922">Link</a>] </p>
+<p>[<a href="http://xuebao.jlu.edu.cn/lxb/CN/Y2021/V59/I4/922">Link</a>] <strong>北大核心，影响因子0.601</strong></p>
 </li>
 <li><p><font color=red>[计算机应用研究 2021]</font> ORESP: 基于有序回归的软件缺陷严重程度预测方法。</p>
 <p><u>贾焱鑫,</u> 陈翔*, 葛骅, <strong>杨光</strong>, 林浩</p>
-<p><em>计算机应用研究</em>. 2021,38(06): 1815-1818. <font color=red>(北大核心，影响因子1.888)</font></p>
-<p>[<a href="https://www.arocmag.com/article/01-2021-06-040.html">Link</a>] </p>
+<p>[<a href="https://www.arocmag.com/article/01-2021-06-040.html">Link</a>] <strong>北大核心，影响因子1.888</strong></p>
 </li>
 </ol>
 ]]></content>
@@ -277,18 +265,7 @@
     <title>Preprint</title>
     <url>/preprint/index.html</url>
     <content><![CDATA[<ol>
-<li><p><font color=red>[Under Review]</font> How Important are Good Method Names in Neural Code Generation? A Model Robustness Perspective.</p>
-<p> <strong>Guang Yang</strong>, Yu Zhou*, Wenhua Yang, Tao Yue, Xiang Chen, Taolue Chen</p>
-<p> [<a href="https://arxiv.org/abs/2211.15844">Link</a>]</p>
-</li>
-<li><p><font color=red>[Under Review]</font> Guard2vul: Effective Vulnerability Detection Via Augmented Data and Sensitive Semantic.</p>
-<p> Hao Shen, Xiaolin Ju*, Wenjie Li, Xiang Chen,<strong>Guang Yang</strong></p>
-<p> [<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4450110">Link</a>]</p>
-</li>
-<li><p><font color=red>[Under Review]</font> Bash Comment Generation Via Data Augmentation and Semantic-Aware Codebert.</p>
-<p> Yiheng Shen, Xiaolin Ju*, Xiang Chen,<strong>Guang Yang</strong></p>
-<p> [<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4385791">Link</a>]</p>
-</li>
+<li> Waiting Update…</li>
 </ol>
 ]]></content>
   </entry>
