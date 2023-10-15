@@ -154,20 +154,20 @@
     <url>/conference/index.html</url>
     <content><![CDATA[<h4 id="2023"><a href="#2023" class="headerlink" title="2023"></a><strong>2023</strong></h4><ol>
 <li><p><font color=red>[EMNLP 2023 findings]</font> Syntax-Aware Retrieval Augmented Code Generation.</p>
-<p>Xiangyu Zhang, Yu Zhou*, <strong>Guang Yang</strong>, and Taolue Chen</p>
-<p>[<a href="">Link</a>] <strong>CCF-B</strong></p>
+<p><u>Xiangyu Zhang</u>, Yu Zhou*, <strong>Guang Yang</strong>, and Taolue Chen</p>
+<p>[<a href="https://openreview.net/forum?id=wFILOtxmxU">Link</a>] <strong>CCF-B</strong></p>
 </li>
 <li><p><font color=red>[COMPSAC 2023]</font> EDP-BGCNN: Effective Defect Prediction via BERT-based Graph Convolutional Neural Network.</p>
 <p><u>Hao Shen</u>, Xiaolin Ju*, Xiang Chen and <strong>Guang Yang</strong></p>
-<p>[<a href="">Link</a>] <strong>CCF-C</strong></p>
+<p>[<a href="https://ieeexplore.ieee.org/abstract/document/10196969/">Link</a>] <strong>CCF-C</strong></p>
 </li>
 <li><p><font color=red>[SEKE 2023]</font> CCGRA: Smart Contract Code Comment Generation with Retrieval-enhanced Approach.</p>
 <p><u>Zhenhua Zhang</u>, Shizhan Chen, Guodong Fan, <strong>Guang Yang</strong> and Zhiyong Feng*</p>
-<p>[<a href="">Link</a>] <strong>CCF-C</strong></p>
+<p>[<a href="https://ksiresearch.org/seke/seke23paper/paper090.pdf">Link</a>] <strong>CCF-C</strong></p>
 </li>
 <li><p><font color=red>[SEKE 2023]</font> An Empirical Study of Adversarial Training in Code Comment Generation.</p>
 <p><u>Yiheng Shen</u>, Xiaolin Ju*, Xiang Chen and <strong>Guang Yang</strong></p>
-<p>[<a href="">Link</a>] <strong>CCF-C</strong></p>
+<p>[<a href="https://ksiresearch.org/seke/seke23paper/paper108.pdf">Link</a>] <strong>CCF-C</strong></p>
 </li>
 </ol>
 <h4 id="2022"><a href="#2022" class="headerlink" title="2022"></a><strong>2022</strong></h4><ol start="5">
@@ -224,11 +224,11 @@
 </li>
 <li><p><font color=red>[EMSE 2023]</font> A Syntax-Guided Multi-Task Learning Approach for Turducken-Style Code Generation.</p>
 <p><u><strong>Guang Yang</strong></u>, Yu Zhou*, Xiang Chen, Xiangyu Zhang, Yiran Xu, Tingting Han, Taolue Chen</p>
-<p>[<a href="https://arxiv.org/abs/2303.05061">Link</a>] To appear <strong>SCI 二区，CCF B，影响因子4.1</strong></p>
+<p>[<a href="https://link.springer.com/article/10.1007/s10664-023-10372-1">Link</a>] <strong>SCI 二区，CCF B，影响因子4.1</strong></p>
 </li>
 <li><p><font color=red>[JSS 2023]</font> ExploitGen: Template-Augmented Exploit Code Generation Based on CodeBERT.</p>
 <p><u><strong>Guang Yang</strong></u>, Yu Zhou*, Xiang Chen*, Xiangyu Zhang, Tingting Han, Taolue Chen*</p>
-<p>[<a href="">Link</a>] [<a href="https://github.com/NTDXYG/ExploitGen">Github</a>] <strong>SCI 二区，CCF B，影响因子3.514</strong></p>
+<p>[<a href="https://www.sciencedirect.com/science/article/abs/pii/S0164121222002539">Link</a>] [<a href="https://github.com/NTDXYG/ExploitGen">Github</a>] <strong>SCI 二区，CCF B，影响因子3.514</strong></p>
 </li>
 <li><p><font color=red>[软件学报]</font> 基于双重信息检索的Bash代码注释自动生成方法。</p>
 <p><u>陈翔</u>，于池，<strong>杨光</strong>，濮雪莲，崔展齐</p>
