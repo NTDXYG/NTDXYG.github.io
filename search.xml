@@ -222,6 +222,10 @@
 <p>  <u><strong>杨光</strong></u>, 周宇*, 陈翔, 张翔宇</p>
 <p>  [<a href="-">Link</a>] To appear  <strong>EI期刊，中文CCF A，影响因子4.149</strong></p>
 </li>
+<li><p><font color=red>[IST 2024]</font> Automatic Smart Contract Comment Generation via Large Language Models and In-Context Learning.</p>
+<p>  <u>Junjie Zhao</u>, Xiang Chen*, <strong>Guang Yang</strong>, Yiheng Shen</p>
+<p>  [<a href="https://arxiv.org/abs/2311.10388">Link</a>] To appear <strong>SCI 二区，CCF B，影响因子3.9</strong></p>
+</li>
 </ul>
 <h4 id="2023"><a href="#2023" class="headerlink" title="2023"></a><strong>2023</strong></h4><ul>
 <li><p><font color=red>[TOSEM 2023]</font> How Important are Good Method Names in Neural Code Generation? A Model Robustness Perspective.</p>
@@ -238,11 +242,11 @@
 </li>
 <li><p><font color=red>[软件学报]</font> 基于双重信息检索的Bash代码注释自动生成方法。</p>
 <p> <u>陈翔</u>，于池，<strong>杨光</strong>，濮雪莲，崔展齐</p>
-<p> [<a href="http://www.jos.org.cn/jos/article/abstract/Li022">Link</a>] [<a href="https://github.com/ExplainBash/explainbash">Github</a>] <strong>EI期刊，中文CCF A，影响因子3.993</strong></p>
+<p> [<a href="http://www.jos.org.cn/jos/article/abstract/Li022">Link</a>] [<a href="https://github.com/ExplainBash/explainbash">Github</a>] <strong>EI期刊，中文CCF A，影响因子5.201</strong></p>
 </li>
 <li><p><font color=red>[计算机系统应用]</font> 基于对抗扰动和局部信息增强的进阀温度预测.</p>
 <p> 吴 皓, 周宇*, 张硕桦, <strong>杨光</strong></p>
-<p> [<a href="https://www.sciencedirect.com/science/article/abs/pii/S0950705121010406">Link</a>] [<a href="https://github.com/NTDXYG/CCGIR">Github</a>] <strong>中文CCF C</strong></p>
+<p> [<a href="https://www.sciencedirect.com/science/article/abs/pii/S0950705121010406">Link</a>] [<a href="https://github.com/NTDXYG/CCGIR">Github</a>] <strong>中文CCF C，影响因子1.825</strong></p>
 </li>
 </ul>
 <h4 id="2022"><a href="#2022" class="headerlink" title="2022"></a><strong>2022</strong></h4><ul>
@@ -271,7 +275,12 @@
     <title>Preprint</title>
     <url>/preprint/index.html</url>
     <content><![CDATA[<ol>
-<li> Waiting Update…</li>
+<li><p>Chain-of-Thought in Neural Code Generation: From and For Lightweight Language Models. [<a href="https://arxiv.org/pdf/2312.05562">arxiv</a>]</p>
+<p>Guang Yang, Yu Zhou, Xiang Chen, Xiangyu Zhang, Terry Yue Zhuo, Taolue Chen</p>
+</li>
+<li><p>Assessing and Improving Syntactic Adversarial Robustness of Pre-trained Models for Code Translation.[<a href="https://arxiv.org/pdf/2310.18587.pdf">arxiv</a>]</p>
+<p>Guang Yang, Yu Zhou, Xiangyu Zhang, Xiang Chen, Tingting Han, Taolue Chen</p>
+</li>
 </ol>
 ]]></content>
   </entry>
