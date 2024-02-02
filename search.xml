@@ -18,66 +18,15 @@
 <p>Nantong University, major in Computer Technology</p>
 <p><strong>2015.9 - 2019.6</strong></p>
 <p>Nantong University, major in Software Engineering</p>
-<h2 id="Publications"><a href="#Publications" class="headerlink" title="Publications"></a>Publications</h2><table>
-<thead>
-<tr>
-<th></th>
-<th>一作</th>
-<th>共一</th>
-<th>合作</th>
-<th></th>
-<th>总计</th>
-</tr>
-</thead>
-<tbody><tr>
-<td>CCF A</td>
-<td>1</td>
-<td>0</td>
-<td>0</td>
-<td></td>
-<td>1</td>
-</tr>
-<tr>
-<td>CCF B</td>
-<td>3</td>
-<td>2</td>
-<td>1</td>
-<td></td>
-<td>6</td>
-</tr>
-<tr>
-<td>CCF C</td>
-<td>3</td>
-<td>1</td>
-<td>3</td>
-<td></td>
-<td>7</td>
-</tr>
-<tr>
-<td>三大学报</td>
-<td>1</td>
-<td>0</td>
-<td>2</td>
-<td></td>
-<td>2</td>
-</tr>
-<tr>
-<td>其他</td>
-<td>2</td>
-<td>0</td>
-<td>4</td>
-<td></td>
-<td>6</td>
-</tr>
-<tr>
-<td>总计</td>
-<td>10</td>
-<td>3</td>
-<td>10</td>
-<td></td>
-<td>23</td>
-</tr>
-</tbody></table>
+<h2 id="Selected-Publications-First-Author-in-CCF-SCI"><a href="#Selected-Publications-First-Author-in-CCF-SCI" class="headerlink" title="Selected Publications (First Author in CCF/SCI)"></a>Selected Publications (First Author in CCF/SCI)</h2><ol>
+<li><font color=red>[TOSEM 2023]</font> How Important are Good Method Names in Neural Code Generation? A Model Robustness Perspective.</li>
+<li><font color=red>[EMSE 2023]</font> A Syntax-Guided Multi-Task Learning Approach for Turducken-Style Code Generation.</li>
+<li><font color=red>[JSS 2023]</font> ExploitGen: Template-Augmented Exploit Code Generation Based on CodeBERT.</li>
+<li><font color=red>[KBS 2022]</font> CCGIR: Information Retrieval-based Code Comment Generation Method for Smart Contracts.</li>
+<li><font color=red>[SANER 2022]</font> DualSC: Automatic Generation and Summarization of ShellCode via Transformer and Dual Learning.</li>
+<li><font color=red>[APSEC 2021]</font> Fine-grained Pseudo-code Generation Method via Code Feature Extraction and Transformer.</li>
+<li><font color=red>[SEKE 2021]</font> DeepSCC: Source Code Classification Based on Fine-Tuned RoBERTa.</li>
+</ol>
 <h2 id="Reviewers"><a href="#Reviewers" class="headerlink" title="Reviewers"></a>Reviewers</h2><ul>
 <li><a href="https://openreview.net/group?id=EMNLP/2023/Conference">EMNLP 2023</a> (CCF B)</li>
 <li><a href="https://www.journals.elsevier.com/expert-systems-with-applications/">Expert Systems With Applications </a>(CCF C)</li>
