@@ -97,7 +97,3 @@ I have published over 20 papers <a href='https://scholar.google.com/citations?us
 - ``CCF-C`` Expert Systems With Applications
 - ``CCF-C`` Soft Computing
 - ``CCF-C`` Engineering Applications of Artificial Intelligence
-  
-# 🗺️ Clustr Maps
-
-<a href='https://clustrmaps.com/site/1boa6'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=ffffff&w=200&t=m&d=fZe2X1N6zq08ZiTIeZ6SiuPTIr1scUj3p2PJRBlcj9k&co=2d78ad&ct=ffffff'/></a>
