@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Lorem ipsum"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
-repository               : "RayeRen/acad-homepage.github.io"
+title                    : "Yang Guang (杨光)"
+description              : "Learning && Loving"
+repository               : "NTDXYG/NTDXYG.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,23 +21,23 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Lorem ipsum"
-  avatar           : "images/android-chrome-512x512.png"
-  bio              : "Lorem ipsum College"
-  location         : "Beijing, China"
+  name             : "Yang Guang (杨光)"
+  avatar           : "/images/avatar.jpg"
+  bio              : "PhD in NUAA"
+  location         : "Singapore"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "Lorem@ipsum.com"
+  googlescholar    : "https://scholar.google.com/citations?user=JFoOXQwAAAAJ"
+  email            : "yang.guang@nuaa.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
-  uri              :
+  uri              : 
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : "NTDXYG"
   google_plus      :
   keybase          :
   instagram        :
@@ -57,6 +57,8 @@ author:
   xing             :
   youtube          :
   wikipedia        :
+  weixin           : "https://cdn.jsdelivr.net/gh/NTDXYG/image-hosting@master/weixin.11cjihf36cmo.jpg"
+  qq               : "https://cdn.jsdelivr.net/gh/NTDXYG/image-hosting@master/QQ.61totend1n40.jpg"
 
 
 # Reading Files
@@ -121,7 +123,7 @@ kramdown:
 defaults:
   # _pages
   - scope:
-      path: ""
+      path: "_pages"
       type: pages
     values:
       layout: default

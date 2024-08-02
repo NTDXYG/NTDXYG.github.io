@@ -8,6 +8,7 @@ redirect_from:
   - /about.html
 ---
 
+
 {% if site.google_scholar_stats_use_cdn %}
 {% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
 {% else %}
@@ -17,42 +18,86 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+# 👀 About Me
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+I am a PhD student in the College of Computer Science and Technology of Nanjing University of Aeronautics and Astronautics.
+
+My research mainly focuses on software engineering:
+
+- Intelligent Software Engineering
+- Code Generation
+
+My advisor is Professor [Yu Zhou](https://csyuzhou.github.io/) (周宇) and Professor [Xiang Chen](https://smartse.github.io/) (陈翔).
+I have published over 20 papers <a href='https://scholar.google.com/citations?user=JFoOXQwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> at the international SE conferences (e.g., SANER, ICSME) and journals (e.g., TOSEM, EMSE).
 
 
-# 🔥 News
+<!-- # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 📝 Publications 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
-
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.08 - 2025.08*, Visiting Ph.D student, Singapore Management University, Singapore.
+- *2022.09 - present*, Nanjing University of Aeronautics and Astronautics, major in Software Engineering. 
+- *2019.09- 2022.06*, Nantong University, major in Computer Technology.
+- *2015.09 - 2019.06*, Nantong University, major in Software Engineering.
+  
+# 📝 Selected Publications
+1. ``TOSEM'24`` **How Important are Good Method Names in Neural Code Generation? A Model Robustness Perspective.**.  
+  <span style="color:blue">Guang Yang</span>, Yu Zhou, Wenhua Yang, Tao Yue, Xiang Chen, and Taolue Chen.  
+  In *ACM Transactions on Software Engineering and Methodology*, March, 2024. (__IF2024: 6.6__, <span style="color:red">CCF-A</span>)   
+  [[Code](https://github.com/NTDXYG/RADAR)]
+  [[DOI](https://dl.acm.org/doi/10.1145/3630010)]
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+2. ``KBS'22`` **CCGIR: Information Retrieval-based Code Comment Generation Method for Smart Contracts.**.  
+  <span style="color:blue">Guang Yang</span>, Ke Liu, Xiang Chen, Yanlin Zhou, Chi Yu, and Hao Lin.  
+  In *Knowledge-Based Systems*, February, 2022. (__IF2022: 8.139__, <span style="color:red">SCI-Q1</span>)   
+  [[Code](https://github.com/NTDXYG/CCGIR)]
+  [[DOI](https://doi.org/10.1016/j.knosys.2021.107858)]
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+3. ``EMSE'23`` **A Syntax-Guided Multi-Task Learning Approach for Turducken-Style Code Generation.**.  
+  <span style="color:blue">Guang Yang</span>, Yu Zhou, Xiang Chen, Xiangyu Zhang, Yiran Xu, Tingting Han, and Taolue Chen.  
+  In *Empirical Software Engineering*, October, 2023. (__IF2023: 4.1__, <span style="color:red">CCF-B</span>)   
+  [[Code](https://github.com/NTDXYG/TurduckenGen)]
+  [[DOI](https://doi.org/10.1007/s10664-023-10372-1)]
+
+4. ``JSS'23`` **ExploitGen: Template-Augmented Exploit Code Generation Based on CodeBERT.**.  
+  <span style="color:blue">Guang Yang</span>, Yu Zhou, Xiang Chen, Xiangyu Zhang, Tingting Han, Taolue Chen.  
+  In *Journal of Systems and Software*, March, 2023. (__IF2023: 3.5__, <span style="color:red">CCF-B</span>)   
+  [[Code](https://github.com/NTDXYG/ExploitGen)]
+  [[DOI](https://doi.org/10.1016/j.jss.2022.111577)]
+
+5. ``SANER'22`` **DualSC: Automatic Generation and Summarization of ShellCode via Transformer and Dual Learning.**.  
+  <span style="color:blue">Guang Yang</span>, Xiang Chen, Yanlin Zhou, and Chi Yu.  
+  In *Proceedings of the 29th IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER)*, March, 2022. (<span style="color:red">CCF-B</span>)  
+    [[Code](https://github.com/NTDXYG/DualSC)]
+  [[DOI](https://doi.org/10.1109/SANER53432.2022.00052)]
+
+6. ``APSEC'21`` **Fine-grained Pseudo-code Generation Method via Code Feature Extraction and Transformer.**.  
+  <span style="color:blue">Guang Yang</span>, Yanlin Zhou, Xiang Chen, and Chi Yu.  
+  In *Proceedings of the 28th Asia-Pacific Software Engineering Conference (APSEC)*, December, 2021. (<span style="color:red">CCF-C</span>)   
+  [[Code](https://github.com/NTDXYG/DeepPseudo)]
+  [[DOI](https://doi.org/10.1109/APSEC53868.2021.00029)]
+
+7. ``SEKE'21`` **DeepSCC: Source Code Classification Based on Fine-Tuned RoBERTa.**.  
+  <span style="color:blue">Guang Yang</span>, Yanlin Zhou, Chi Yu, and Xiang Chen.  
+  In *Proceedings of the 33rd International Conference on Software Engineering and Knowledge Engineering (SEKE)*, July, 2021. (<span style="color:red">CCF-C</span>)   
+  [[Code](https://github.com/NTDXYG/DeepPseudo)]
+  [[DOI](https://doi.org/10.18293/seke2021-005)]
+
+8. ``计算机研究与发展'24`` **CodeScore-R：用于评估代码合成功能准确性的自动化鲁棒指标.**.  
+  <span style="color:blue">杨光</span>, 周宇, 陈翔,  张翔宇.  
+  In *计算机研究与发展*, 2024. (__IF2024: 4.149__, <span style="color:red">中文 CCF-A</span>)   
+  <!-- [[Code](https://github.com/NTDXYG/DeepPseudo)] -->
+  [[DOI](https://doi.org/10.7544/issn1000-1239.202330715)]
+
+# 🔍 Reviewers
+- ``CCF-B`` Automated Software Engineering
+- ``CCF-B`` Information Processing & Management
+- ``CCF-B`` EMNLP 2023
+- ``CCF-C`` Expert Systems With Applications
+- ``CCF-C`` Soft Computing
+- ``CCF-C`` Engineering Applications of Artificial Intelligence
+  
+# 🗺️ Clustr Maps
+
+<a href='https://clustrmaps.com/site/1boa6'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=ffffff&w=200&t=m&d=fZe2X1N6zq08ZiTIeZ6SiuPTIr1scUj3p2PJRBlcj9k&co=2d78ad&ct=ffffff'/></a>
