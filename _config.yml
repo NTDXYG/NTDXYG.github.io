@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Yang Guang (杨光)"
+title                    : "Guang Yang (杨光)"
 description              : "Learning && Loving"
 repository               : "NTDXYG/NTDXYG.github.io"
 google_scholar_stats_use_cdn : true
@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Yang Guang (杨光)"
+  name             : "Guang Yang (杨光)"
   avatar           : "/images/avatar.jpg"
   bio              : "PhD in NUAA"
   location         : "Singapore"
