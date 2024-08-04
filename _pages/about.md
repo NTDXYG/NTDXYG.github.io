@@ -36,7 +36,7 @@ I have published over 20 papers <a href='https://scholar.google.com/citations?us
 # 📖 Educations
 - *2024.08 - 2025.08*, Visiting Ph.D student, Singapore Management University, Singapore.
 - *2022.09 - present*, Nanjing University of Aeronautics and Astronautics, major in Software Engineering. 
-- *2019.09- 2022.06*, Nantong University, major in Computer Technology.
+- *2019.09 - 2022.06*, Nantong University, major in Computer Technology.
 - *2015.09 - 2019.06*, Nantong University, major in Software Engineering.
   
 # 📝 Selected Publications
