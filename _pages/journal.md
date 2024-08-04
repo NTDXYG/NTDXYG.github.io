@@ -12,6 +12,11 @@ author_profile: true
 # 📰 Journal
 
 ## 2024
+- ``TSE'24`` **Chain-of-Thought in Neural Code Generation: From and For Lightweight Language Models**.  
+  <span style="color:blue">Guang Yang</span>, Yu Zhou, Xiang Chen, Xiangyu Zhang, Terry Yue Zhuo, and Taolue Chen.   
+  In *Transactions on Software Engineering*, To appear. (__IF2024: 6.5__, <span style="color:red">CCF-A</span>)   
+  [[Code](https://github.com/NTDXYG/COTTON)]
+
 - ``计算机研究与发展'24`` **CodeScore-R：用于评估代码合成功能准确性的自动化鲁棒指标**.  
   <span style="color:blue">杨光</span>, 周宇, 陈翔,  张翔宇.  
   In *计算机研究与发展*, 2024. (__IF2024: 4.149__, <span style="color:red">中文 CCF-A</span>)   

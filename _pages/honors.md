@@ -23,7 +23,7 @@ author_profile: true
 
    
 
-# Competitions
+# 🏆 Competitions
 
 ## 2021
 

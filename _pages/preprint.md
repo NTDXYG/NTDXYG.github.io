@@ -13,12 +13,8 @@ author_profile: true
 
 - ``arxiv'24`` **DeCE: Deceptive Cross-Entropy Loss Designed for Defending Backdoor Attacks**.  
   <span style="color:blue">Guang Yang</span>, Yu Zhou, Xiang Chen, Xiangyu Zhang, Terry Yue Zhuo, David Lo, and Taolue Chen.  
-  [[ARXIV](https://arxiv.org/abs/2407.08956)]
-
-- ``arxiv'23`` **Chain-of-Thought in Neural Code Generation: From and For Lightweight Language Models**.  
-  <span style="color:blue">Guang Yang</span>, Yu Zhou, Xiang Chen, Xiangyu Zhang, Terry Yue Zhuo, and Taolue Chen.  
-  [[ARXIV](https://arxiv.org/abs/2312.05562)]
+  [![](https://img.shields.io/badge/arXiv-2407.08956-b31b1b.svg)](https://arxiv.org/abs/2407.08956) 
 
 - ``arxiv'23`` **Assessing and Improving Syntactic Adversarial Robustness of Pre-trained Models for Code Translation**.  
   <span style="color:blue">Guang Yang</span>, Yu Zhou, Xiangyu Zhang, Xiang Chen, Tingting Han, and Taolue Chen.  
-  [[ARXIV](https://arxiv.org/abs/2310.18587)]
+    [![](https://img.shields.io/badge/arXiv-2407.18587-b31b1b.svg)](https://arxiv.org/abs/2407.18587) 
