@@ -45,7 +45,7 @@ I have published over 20 papers <a href='https://scholar.google.com/citations?us
   <span style="color:blue">Guang Yang</span>, Yu Zhou, Xiang Chen, Xiangyu Zhang, Terry Yue Zhuo, and Taolue Chen.   
   In *Transactions on Software Engineering*, To appear. (__IF2024: 6.5__, <span style="color:red">CCF-A</span>)   
   [[Code](https://github.com/NTDXYG/COTTON)]
-  <!-- [[DOI](https://dl.acm.org/doi/10.1145/3630010)] -->
+  [[DOI](https://doi.org/10.1109/TSE.2024.3440503)]
 
 8. ``TOSEM'24`` **How Important are Good Method Names in Neural Code Generation? A Model Robustness Perspective**.  
   <span style="color:blue">Guang Yang</span>, Yu Zhou, Wenhua Yang, Tao Yue, Xiang Chen, and Taolue Chen.  

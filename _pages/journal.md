@@ -16,6 +16,7 @@ author_profile: true
   <span style="color:blue">Guang Yang</span>, Yu Zhou, Xiang Chen, Xiangyu Zhang, Terry Yue Zhuo, and Taolue Chen.   
   In *Transactions on Software Engineering*, To appear. (__IF2024: 6.5__, <span style="color:red">CCF-A</span>)   
   [[Code](https://github.com/NTDXYG/COTTON)]
+  [[DOI](https://doi.org/10.1109/TSE.2024.3440503)]
 
 - ``计算机研究与发展'24`` **CodeScore-R：用于评估代码合成功能准确性的自动化鲁棒指标**.  
   <span style="color:blue">杨光</span>, 周宇, 陈翔,  张翔宇.  
