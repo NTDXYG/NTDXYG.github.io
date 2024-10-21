@@ -24,7 +24,7 @@ author_profile: true
   [[DOI](https://doi.org/10.1109/COMPSAC57700.2023.00114)]
 
 - ``SEKE'23`` **CCGRA: Smart Contract Code Comment Generation with Retrieval-enhanced Approach**.  
-  <span style="color:blue">Guang Yang</span>, Yu Zhou, Xiang Chen, Xiangyu Zhang, Yiran Xu, Tingting Han, and Taolue Chen.  
+   Zhenhua Zhang,  Shizhan Chen, Guodong Fan, <span style="color:blue">Guang Yang</span>, and Zhiyong Feng.  
   In *Proceedings of the 35th International Conference on Software Engineering and Knowledge Engineering (SEKE)*, July, 2023. (<span style="color:red">CCF-C</span>)   
   [[Code](https://github.com/ZZHbible/CCGRA)]
   [[DOI](https://doi.org/10.18293/seke2023-090)]
