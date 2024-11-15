@@ -1,7 +1,6 @@
 {% if page.author and site.data.authors[page.author] %}
   {% assign author = site.data.authors[page.author] %}{% else %}{% assign author = site.author %}
 {% endif %}
-
 <div itemscope itemtype="http://schema.org/Person" class="profile_box">
 
   <div class="author__avatar">
@@ -107,10 +106,13 @@
         <li><a href="{{ author.googlescholar }}"><i class="fas fa-fw fa-graduation-cap"></i> Google Scholar</a></li>
       {% endif %}
       {% if author.weixin %}
-      <li><a href="{{ author.weixin }}"><i class="fas fa-fw fa-graduation-cap"></i> VX</a></li>
+      <li><a href="{{ author.weixin }}"><i class="fa fa-comments"></i> VX</a></li>
       {% endif %}
       {% if author.qq %}
-      <li><a href="{{ author.qq }}"><i class="fas fa-fw fa-graduation-cap"></i> QQ</a></li>
+      <li><a href="{{ author.qq }}"><i class="fa fa-q"></i> QQ</a></li>
+      {% endif %}
+      {% if author.cv %}
+      <li><a href="{{ author.cv }}"><i class="fa fa-address-card"></i> CV</a></li>
       {% endif %}
       {% if author.pubmed %}
         <li><a href="{{ author.pubmed }}"><i class="ai ai-pubmed-square ai-fw"></i> PubMed</a></li>
