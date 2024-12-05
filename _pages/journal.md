@@ -14,7 +14,7 @@ author_profile: true
 ## 2024
 - ``TSE'24`` **Chain-of-Thought in Neural Code Generation: From and For Lightweight Language Models**.  
   <span style="color:blue">Guang Yang</span>, Yu Zhou, Xiang Chen, Xiangyu Zhang, Terry Yue Zhuo, and Taolue Chen.   
-  In *Transactions on Software Engineering*, To appear. (__IF2024: 6.5__, <span style="color:red">CCF-A</span>)   
+  In *Transactions on Software Engineering*, Sept. 2024. (__IF2024: 6.5__, <span style="color:red">CCF-A</span>)   
   [[Code](https://github.com/NTDXYG/COTTON)]
   [[DOI](https://doi.org/10.1109/TSE.2024.3440503)]
 
