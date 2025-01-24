@@ -35,7 +35,11 @@ My advisor is Professor [Yu Zhou](https://csyuzhou.github.io/) (周宇),  [Xiang
 I have published over 30 papers <a href='https://scholar.google.com/citations?user=JFoOXQwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> at the international SE conferences (e.g., SANER, ICSME) and journals (e.g., TSE, TOSEM, EMSE).
 
 # 🔥 News
-- *2024.1*0: &nbsp; I am invited as a PC member @MSR4P&S 2025, co-located with SANAR 2025. Welcome to submit your papers!
+- *2025.01*: &nbsp; I am invited as a PC member DL4C@ICLR 2025. 
+- *2025.01*: &nbsp; I am invited as a PC member @IJCAI 2025. 
+- *2025.01*: &nbsp; I am invited as a PC member @IJCNN 2025. 
+- *2024.10*: &nbsp; I am invited as a PC member MSR4P&S@SANAR 2025. 
+- *2024.09*: &nbsp; I am invited as a PC member @ICLR 2025. 
 - *2024.08*: &nbsp;🎉 One paper is accepted by **TSE**!
 
 # 📖 Educations
@@ -101,6 +105,8 @@ I have published over 30 papers <a href='https://scholar.google.com/citations?us
 
 
 # 🔍 Reviewer/PC Member
+- ``CCF-A`` IJCAI 2025
+- ``CCF-C`` IJCNN 2025
 - ``ICLR`` ICLR 2025
 - MSR4P&S 2025
 - ``CCF-B`` Automated Software Engineering
