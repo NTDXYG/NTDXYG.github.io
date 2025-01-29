@@ -35,11 +35,6 @@ My advisor is Professor [Yu Zhou](https://csyuzhou.github.io/) (周宇),  [Xiang
 I have published over 30 papers <a href='https://scholar.google.com/citations?user=JFoOXQwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> at the international SE conferences (e.g., SANER, ICSME) and journals (e.g., TSE, TOSEM, EMSE).
 
 # 🔥 News
-- *2025.01*: &nbsp; I am invited as a PC member DL4C@ICLR 2025. 
-- *2025.01*: &nbsp; I am invited as a PC member @IJCAI 2025. 
-- *2025.01*: &nbsp; I am invited as a PC member @IJCNN 2025. 
-- *2024.10*: &nbsp; I am invited as a PC member MSR4P&S@SANAR 2025. 
-- *2024.09*: &nbsp; I am invited as a PC member @ICLR 2025. 
 - *2024.08*: &nbsp;🎉 One paper is accepted by **TSE**!
 
 # 📖 Educations
@@ -50,24 +45,24 @@ I have published over 30 papers <a href='https://scholar.google.com/citations?us
   
 # 📝 Selected Publications
 
-9. ``TSE'24`` **Chain-of-Thought in Neural Code Generation: From and For Lightweight Language Models**.  
+1. ``TSE'24`` **Chain-of-Thought in Neural Code Generation: From and For Lightweight Language Models**.  
     <span style="color:blue">Guang Yang</span>, Yu Zhou, Xiang Chen, Xiangyu Zhang, Terry Yue Zhuo, and Taolue Chen.   
     In *Transactions on Software Engineering*, Sept. 2024. (__IF2024: 6.5__, <span style="color:red">CCF-A</span>)   
     [[Code](https://github.com/NTDXYG/COTTON)]
     [[DOI](https://doi.org/10.1109/TSE.2024.3440503)]
 
-8. ``TOSEM'24`` **How Important are Good Method Names in Neural Code Generation? A Model Robustness Perspective**.  
+2. ``TOSEM'24`` **How Important are Good Method Names in Neural Code Generation? A Model Robustness Perspective**.  
     <span style="color:blue">Guang Yang</span>, Yu Zhou, Wenhua Yang, Tao Yue, Xiang Chen, and Taolue Chen.  
     In *ACM Transactions on Software Engineering and Methodology*, March, 2024. (__IF2024: 6.6__, <span style="color:red">CCF-A</span>)   
     [[Code](https://github.com/NTDXYG/RADAR)]
     [[DOI](https://dl.acm.org/doi/10.1145/3630010)]
 
-7. ``计算机研究与发展'24`` **CodeScore-R：用于评估代码合成功能准确性的自动化鲁棒指标**.  
+3. ``计算机研究与发展'24`` **CodeScore-R：用于评估代码合成功能准确性的自动化鲁棒指标**.  
     <span style="color:blue">杨光</span>, 周宇, 陈翔,  张翔宇.  
     In *计算机研究与发展*, 2024. (__IF2024: 4.149__, <span style="color:red">中文 CCF-A</span>)   
     [[DOI](https://doi.org/10.7544/issn1000-1239.202330715)]
 
-6. ``KBS'22`` **CCGIR: Information Retrieval-based Code Comment Generation Method for Smart Contracts**.  
+4. ``KBS'22`` **CCGIR: Information Retrieval-based Code Comment Generation Method for Smart Contracts**.  
     <span style="color:blue">Guang Yang</span>, Ke Liu, Xiang Chen, Yanlin Zhou, Chi Yu, and Hao Lin.  
     In *Knowledge-Based Systems*, February, 2022. (__IF2022: 8.139__, <span style="color:red">SCI-Q1</span>)   
     [[Code](https://github.com/NTDXYG/CCGIR)]
@@ -79,39 +74,45 @@ I have published over 30 papers <a href='https://scholar.google.com/citations?us
     [[Code](https://github.com/NTDXYG/TurduckenGen)]
     [[DOI](https://doi.org/10.1007/s10664-023-10372-1)]
 
-4. ``JSS'23`` **ExploitGen: Template-Augmented Exploit Code Generation Based on CodeBERT**.  
+6. ``JSS'23`` **ExploitGen: Template-Augmented Exploit Code Generation Based on CodeBERT**.  
     <span style="color:blue">Guang Yang</span>, Yu Zhou, Xiang Chen, Xiangyu Zhang, Tingting Han, Taolue Chen.  
     In *Journal of Systems and Software*, March, 2023. (__IF2023: 3.5__, <span style="color:red">CCF-B</span>)   
     [[Code](https://github.com/NTDXYG/ExploitGen)]
     [[DOI](https://doi.org/10.1016/j.jss.2022.111577)]
 
-3. ``SANER'22`` **DualSC: Automatic Generation and Summarization of ShellCode via Transformer and Dual Learning**.  
+7. ``SANER'22`` **DualSC: Automatic Generation and Summarization of ShellCode via Transformer and Dual Learning**.  
     <span style="color:blue">Guang Yang</span>, Xiang Chen, Yanlin Zhou, and Chi Yu.  
     In *Proceedings of the 29th IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER)*, March, 2022. (<span style="color:red">CCF-B</span>)  
     [[Code](https://github.com/NTDXYG/DualSC)]
     [[DOI](https://doi.org/10.1109/SANER53432.2022.00052)]
 
-2. ``APSEC'21`` **Fine-grained Pseudo-code Generation Method via Code Feature Extraction and Transformer**.  
+8. ``APSEC'21`` **Fine-grained Pseudo-code Generation Method via Code Feature Extraction and Transformer**.  
     <span style="color:blue">Guang Yang</span>, Yanlin Zhou, Xiang Chen, and Chi Yu.  
     In *Proceedings of the 28th Asia-Pacific Software Engineering Conference (APSEC)*, December, 2021. (<span style="color:red">CCF-C</span>)   
     [[Code](https://github.com/NTDXYG/DeepPseudo)]
     [[DOI](https://doi.org/10.1109/APSEC53868.2021.00029)]
 
-1. ``SEKE'21`` **DeepSCC: Source Code Classification Based on Fine-Tuned RoBERTa**.  
+9. ``SEKE'21`` **DeepSCC: Source Code Classification Based on Fine-Tuned RoBERTa**.  
     <span style="color:blue">Guang Yang</span>, Yanlin Zhou, Chi Yu, and Xiang Chen.  
     In *Proceedings of the 33rd International Conference on Software Engineering and Knowledge Engineering (SEKE)*, July, 2021. (<span style="color:red">CCF-C</span>)   
     [[Code](https://github.com/NTDXYG/DeepPseudo)]
     [[DOI](https://doi.org/10.18293/seke2021-005)]
 
+# 🔍 Services
 
-# 🔍 Reviewer/PC Member
-- ``CCF-A`` IJCAI 2025
-- ``CCF-C`` IJCNN 2025
-- ``ICLR`` ICLR 2025
-- MSR4P&S 2025
+## Journal Reviewing
+
 - ``CCF-B`` Automated Software Engineering
 - ``CCF-B`` Information Processing & Management
-- ``CCF-B`` EMNLP 2023
 - ``CCF-C`` Expert Systems With Applications
 - ``CCF-C`` Soft Computing
 - ``CCF-C`` Engineering Applications of Artificial Intelligence
+
+## Conference Activities
+
+- ``CCF-A`` IJCAI 2025, PC Member
+- ``CCF-C`` IJCNN 2025, Reviewer
+- ``ICLR`` ICLR 2025, Reviewer
+- ``ICLR workshop``DL4C@ICLR 2025, Reviewer
+- ``CCF-B workshop`` MSR4P&S@SANER 2025, PC Member
+- ``CCF-B`` EMNLP 2023, Reviewer
