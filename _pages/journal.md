@@ -10,6 +10,15 @@ author_profile: true
 <span class='anchor' id='journal'></span>
 
 # 📰 Journal
+## 2025
+
+- ``IST'25`` **Assessing and Improving Syntactic Adversarial Robustness of Pre-trained Models for Code Translation**.  
+  <span style="color:blue">Guang Yang</span>, Yu Zhou, Xiangyu Zhang, Xiang Chen, Tingting Han, and Taolue Chen.  
+  
+  In *Information and Software Technology*, To Appear. 2025. (__IF2025: 3.8__, <span style="color:red">CCF-B</span>)   
+  [[Code](https://github.com/NTDXYG/COTR)]
+  [[DOI]()]
+
 
 ## 2024
 - ``TSE'24`` **Chain-of-Thought in Neural Code Generation: From and For Lightweight Language Models**.  

@@ -35,6 +35,7 @@ My advisor is Professor [Yu Zhou](https://csyuzhou.github.io/) (周宇),  [Xiang
 I have published over 30 papers <a href='https://scholar.google.com/citations?user=JFoOXQwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> at the international SE conferences (e.g., SANER, ICSME) and journals (e.g., TSE, TOSEM, EMSE).
 
 # 🔥 News
+- *2025.02*: &nbsp;🎉 One paper is accepted by **IST**!
 - *2024.08*: &nbsp;🎉 One paper is accepted by **TSE**!
 
 # 📖 Educations
@@ -44,7 +45,6 @@ I have published over 30 papers <a href='https://scholar.google.com/citations?us
 - *2015.09 - 2019.06*, Nantong University, major in Software Engineering.
   
 # 📝 Selected Publications
-
 1. ``TSE'24`` **Chain-of-Thought in Neural Code Generation: From and For Lightweight Language Models**.  
     <span style="color:blue">Guang Yang</span>, Yu Zhou, Xiang Chen, Xiangyu Zhang, Terry Yue Zhuo, and Taolue Chen.   
     In *Transactions on Software Engineering*, Sept. 2024. (__IF2024: 6.5__, <span style="color:red">CCF-A</span>)   
@@ -67,6 +67,12 @@ I have published over 30 papers <a href='https://scholar.google.com/citations?us
     In *Knowledge-Based Systems*, February, 2022. (__IF2022: 8.139__, <span style="color:red">SCI-Q1</span>)   
     [[Code](https://github.com/NTDXYG/CCGIR)]
     [[DOI](https://doi.org/10.1016/j.knosys.2021.107858)]
+
+1. ``IST'25`` **Assessing and Improving Syntactic Adversarial Robustness of Pre-trained Models for Code Translation**.  
+<span style="color:blue">Guang Yang</span>, Yu Zhou, Xiangyu Zhang, Xiang Chen, Tingting Han, and Taolue Chen.  
+In *Information and Software Technology*, To Appear. 2025. (__IF2025: 3.8__, <span style="color:red">CCF-B</span>)   
+[[Code](https://github.com/NTDXYG/COTR)]
+[[DOI]()]
 
 5. ``EMSE'23`` **A Syntax-Guided Multi-Task Learning Approach for Turducken-Style Code Generation**.  
     <span style="color:blue">Guang Yang</span>, Yu Zhou, Xiang Chen, Xiangyu Zhang, Yiran Xu, Tingting Han, and Taolue Chen.  
