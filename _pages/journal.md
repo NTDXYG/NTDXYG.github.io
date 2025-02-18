@@ -12,6 +12,12 @@ author_profile: true
 # 📰 Journal
 ## 2025
 
+- ``TOSEM'25`` **DeCE: Deceptive Cross-Entropy Loss Designed for Defending Backdoor Attacks**.  
+  <span style="color:blue">Guang Yang</span>, Yu Zhou, Xiang Chen, Xiangyu Zhang, Terry Yue Zhuo, David Lo, and Taolue Chen.   
+  In *ACM Transactions on Software Engineering and Methodology*, To Appear. 2025. (__IF2025: 6.6__, <span style="color:red">CCF-A</span>)   
+  [[Code](https://github.com/NTDXYG/DeCE)]
+  [[DOI](https://doi.org/10.1109/TSE.2024.3440503)]
+  
 - ``IST'25`` **Assessing and Improving Syntactic Adversarial Robustness of Pre-trained Models for Code Translation**.  
   <span style="color:blue">Guang Yang</span>, Yu Zhou, Xiangyu Zhang, Xiang Chen, Tingting Han, and Taolue Chen.  
   
