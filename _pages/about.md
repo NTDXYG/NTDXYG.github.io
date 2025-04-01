@@ -35,7 +35,7 @@ My advisor is Professor [Yu Zhou](https://csyuzhou.github.io/) (周宇),  [Xiang
 I have published over 30 papers <a href='https://scholar.google.com/citations?user=JFoOXQwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> at the international SE conferences (e.g., SANER, ICSME) and journals (e.g., TSE, TOSEM, EMSE).
 
 # 🔥 News
-- *2025.02*: &nbsp;🎉 One paper is accepted by **TOSEM**!
+- *2025.05*: &nbsp;🎉 One paper is accepted by **TOSEM**!
 - *2025.02*: &nbsp;🎉 One paper is accepted by **IST**!
 - *2024.08*: &nbsp;🎉 One paper is accepted by **TSE**!
 
@@ -50,7 +50,7 @@ I have published over 30 papers <a href='https://scholar.google.com/citations?us
     <span style="color:blue">Guang Yang</span>, Yu Zhou, Xiang Chen, Xiangyu Zhang, Terry Yue Zhuo, David Lo, and Taolue Chen.   
     In *ACM Transactions on Software Engineering and Methodology*, To Appear. 2025. (__IF2024: 6.6__, <span style="color:red">CCF-A</span>)   
     [[Code](https://github.com/NTDXYG/DeCE)]
-    [[DOI](https://doi.org/10.1109/TSE.2024.3440503)]
+    [[DOI]()]
 
 2. ``TSE'24`` **Chain-of-Thought in Neural Code Generation: From and For Lightweight Language Models**.  
     <span style="color:blue">Guang Yang</span>, Yu Zhou, Xiang Chen, Xiangyu Zhang, Terry Yue Zhuo, and Taolue Chen.   
