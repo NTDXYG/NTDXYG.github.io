@@ -12,6 +12,12 @@ author_profile: true
 # 📰 Journal
 ## 2025
 
+- ``TOSEM'25`` **Less is More: DocString Compression in Code Generation**.  
+  <span style="color:blue">Guang Yang</span>, Yu Zhou, WEI CHENG, XIANGYU ZHANG, Xiang Chen, Terry Yue Zhuo, KE LIU, XIN ZHOU, David Lo, and Taolue Chen
+  In *ACM Transactions on Software Engineering and Methodology*, To Appear. 2025. (__IF2024: 6.6__, <span style="color:red">CCF-A</span>)   
+  [[Code](https://github.com/NTDXYG/ShortenDoc)]
+  [[DOI]()]
+  
 - ``TOSEM'25`` **DeCE: Deceptive Cross-Entropy Loss Designed for Defending Backdoor Attacks**.  
   <span style="color:blue">Guang Yang</span>, Yu Zhou, Xiang Chen, Xiangyu Zhang, Terry Yue Zhuo, David Lo, and Taolue Chen.   
   In *ACM Transactions on Software Engineering and Methodology*, To Appear. 2025. (__IF2025: 6.6__, <span style="color:red">CCF-A</span>)   
