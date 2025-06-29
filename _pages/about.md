@@ -38,39 +38,32 @@ I have published over 30 papers <a href='https://scholar.google.com/citations?us
 - *2022.09 - 2025.10*, Nanjing University of Aeronautics and Astronautics, major in Software Engineering. 
 - *2019.09 - 2022.06*, Nantong University, major in Computer Technology.
 - *2015.09 - 2019.06*, Nantong University, major in Software Engineering.
+
 # 📝 Selected Publications
 1. ``TOSEM'25`` (<span style="color:red">CCF-A</span>) **Less is More: DocString Compression in Code Generation**.  
-    <span style="color:blue">Guang Yang</span>, Yu Zhou, WEI CHENG, XIANGYU ZHANG, Xiang Chen, Terry Yue Zhuo, KE LIU, XIN ZHOU, David Lo, and Taolue Chen
-    In *ACM Transactions on Software Engineering and Methodology*, To Appear. 2025.  [[Code](https://github.com/NTDXYG/ShortenDoc)] [[DOI]()]
-
+    <span style="color:blue">Guang Yang</span>, Yu Zhou, WEI CHENG, XIANGYU ZHANG, Xiang Chen, Terry Yue Zhuo, KE LIU, XIN ZHOU, David Lo, and Taolue Chen.   
+    In *ACM Transactions on Software Engineering and Methodology*, To Appear. 2025. [[Code](https://github.com/NTDXYG/ShortenDoc)] [[DOI]()]
 2. ``TOSEM'25`` (<span style="color:red">CCF-A</span>) **DeCE: Deceptive Cross-Entropy Loss Designed for Defending Backdoor Attacks**.  
     <span style="color:blue">Guang Yang</span>, Yu Zhou, Xiang Chen, Xiangyu Zhang, Terry Yue Zhuo, David Lo, and Taolue Chen.   
     In *ACM Transactions on Software Engineering and Methodology*, To Appear. 2025. [[Code](https://github.com/NTDXYG/DeCE)] [[DOI]()]
-
 3. ``TSE'24`` (<span style="color:red">CCF-A</span>) **Chain-of-Thought in Neural Code Generation: From and For Lightweight Language Models**.  
     <span style="color:blue">Guang Yang</span>, Yu Zhou, Xiang Chen, Xiangyu Zhang, Terry Yue Zhuo, and Taolue Chen.   
     In *Transactions on Software Engineering*, Sept. 2024. [[Code](https://github.com/NTDXYG/COTTON)] [[DOI](https://doi.org/10.1109/TSE.2024.3440503)]
-
 4. ``TOSEM'24`` (<span style="color:red">CCF-A</span>) **How Important are Good Method Names in Neural Code Generation? A Model Robustness Perspective**.  
     <span style="color:blue">Guang Yang</span>, Yu Zhou, Wenhua Yang, Tao Yue, Xiang Chen, and Taolue Chen.  
     In *ACM Transactions on Software Engineering and Methodology*, March, 2024. [[Code](https://github.com/NTDXYG/RADAR)] [[DOI](https://dl.acm.org/doi/10.1145/3630010)]
-
 5. ``TSE'25`` (<span style="color:red">CCF-A</span>) **Anchor Attention, Small Cache: Code Generation with Large Language Models**.  
     Xiangyu Zhang, Yu Zhou, <span style="color:blue">Guang Yang</span>, Harald C. Gall, Taolue Chen.  
     In *Transactions on Software Engineering*, To appear, 2025. [[DOI]()] 
-
 6. ``ACL Main'25`` (<span style="color:red">CCF-A</span>) **Beyond Sequences: Two-dimensional Representation and Dependency Encoding for Code Generation**.  
     Xiangyu Zhang, Yu Zhou, <span style="color:blue">Guang Yang</span>, Wei Cheng, Taolue Chen.  
     In *The 63rd Annual Meeting of the Association for Computational Linguistics*, To appear, 2025.  [[DOI]()] 
-
 7. ``计算机研究与发展'24`` (<span style="color:red">中文CCF-A</span>) **CodeScore-R：用于评估代码合成功能准确性的自动化鲁棒指标**.  
     <span style="color:blue">杨光</span>, 周宇, 陈翔,  张翔宇.  
     In *计算机研究与发展*, 2024.  [[DOI](https://doi.org/10.7544/issn1000-1239.202330715)]
-
 8. ``软件学报'21`` (<span style="color:red">中文CCF-A</span>) **代码注释自动生成方法综述**.  
     陈翔, <span style="color:blue">杨光</span>, 崔展齐, 孟国柱, 王赞.  
     In *软件学报*, July, 2021. [[DOI](https://doi.org/10.13328/j.cnki.jos.006258)]
-
 9. ``KBS'22`` (<span style="color:red">SCI-Q1</span>) **CCGIR: Information Retrieval-based Code Comment Generation Method for Smart Contracts**.  
     <span style="color:blue">Guang Yang</span>, Ke Liu, Xiang Chen, Yanlin Zhou, Chi Yu, and Hao Lin.  
     In *Knowledge-Based Systems*, February, 2022. [[Code](https://github.com/NTDXYG/CCGIR)] [[DOI](https://doi.org/10.1016/j.knosys.2021.107858)]
