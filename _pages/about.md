@@ -25,7 +25,7 @@ I am a PhD student in the College of Computer Science and Technology of Nanjing 
 My research focuses on **Intelligent Software Engineering**, with a spotlight on the code generation.
 
 My advisor is Professor [Yu Zhou](https://csyuzhou.github.io/) (周宇),  [Xiang Chen](https://smartse.github.io/) (陈翔), and [David Lo](http://www.mysmu.edu/faculty/davidlo/).
-I have published over 30 papers <a href='https://scholar.google.com/citations?user=JFoOXQwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> at the international SE conferences (e.g., SANER, ICSME) and journals (e.g., TSE, TOSEM, EMSE).
+I have published over 30 papers <a href='https://scholar.google.com/citations?user=JFoOXQwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> at the international conferences (e.g., ACL, EMNLP, SANER, ICSME) and journals (e.g., TSE, TOSEM, EMSE).
 
 # 🔥 News
 - *2025.05*: &nbsp;🎉 One paper is accepted by **ACL Main**!
@@ -35,10 +35,9 @@ I have published over 30 papers <a href='https://scholar.google.com/citations?us
 
 # 📖 Educations
 - *2024.08 - 2025.07*, Visiting Ph.D student, Singapore Management University, Singapore.
-- *2022.09 - present*, Nanjing University of Aeronautics and Astronautics, major in Software Engineering. 
+- *2022.09 - 2025.10*, Nanjing University of Aeronautics and Astronautics, major in Software Engineering. 
 - *2019.09 - 2022.06*, Nantong University, major in Computer Technology.
 - *2015.09 - 2019.06*, Nantong University, major in Software Engineering.
-  
 # 📝 Selected Publications
 1. ``TOSEM'25`` (<span style="color:red">CCF-A</span>) **Less is More: DocString Compression in Code Generation**.  
     <span style="color:blue">Guang Yang</span>, Yu Zhou, WEI CHENG, XIANGYU ZHANG, Xiang Chen, Terry Yue Zhuo, KE LIU, XIN ZHOU, David Lo, and Taolue Chen
@@ -80,10 +79,10 @@ I have published over 30 papers <a href='https://scholar.google.com/citations?us
 
 ## Journal Reviewing
 
+- ``CCF-A``Transactions on Software Engineering
 - ``CCF-B`` Automated Software Engineering
 - ``CCF-B`` Information Processing & Management
 - ``CCF-C`` Expert Systems With Applications
-- ``CCF-C`` Soft Computing
 - ``CCF-C`` Engineering Applications of Artificial Intelligence
 
 ## Conference Activities
@@ -92,6 +91,5 @@ I have published over 30 papers <a href='https://scholar.google.com/citations?us
 - ``CCF-A`` IJCAI 2025, PC Member
 - ``CCF-C`` IJCNN 2025, Reviewer
 - ``ICLR`` ICLR 2025, Reviewer
-- ``ICLR workshop``DL4C@ICLR 2025, Reviewer
 - ``CCF-B workshop`` MSR4P&S@SANER 2025, PC Member
 - ``CCF-B`` EMNLP 2023, Reviewer
