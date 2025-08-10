@@ -13,6 +13,9 @@ author_profile: true
 
 ## 2025
 
+- ``ASE'25`` (<span style="color:red">CCF-A</span>) **Code-DiTing: Automatic Evaluation of Code Generation without References or Test Cases**.  
+<span style="color:blue">Guang Yang</span>, Yu Zhou, Xiang Chen, Wei Zheng, Xing Hu, Xin Zhou, David Lo, and Taolue Chen.   
+In *40th IEEE/ACM International Conference on Automated Software Engineering, ASE 2025*, To Appear. 2025. [[Code](https://github.com/Code-DiTing)] [[DOI]()]
 - ``ACL Main'25`` (<span style="color:red">CCF-A</span>) **Beyond Sequences: Two-dimensional Representation and Dependency Encoding for Code Generation**.  
 Xiangyu Zhang, Yu Zhou, <span style="color:blue">Guang Yang</span>, Wei Cheng, Taolue Chen.  
 In *The 63rd Annual Meeting of the Association for Computational Linguistics*, To appear, 2025.  [[DOI]()] 

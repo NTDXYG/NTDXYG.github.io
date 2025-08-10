@@ -27,8 +27,11 @@ author_profile: true
 - ``IST'25``(<span style="color:red">CCF-B</span>) **Assessing and Improving Syntactic Adversarial Robustness of Pre-trained Models for Code Translation**.  
   <span style="color:blue">Guang Yang</span>, Yu Zhou, Xiangyu Zhang, Xiang Chen, Tingting Han, and Taolue Chen.  
   
-  In *Information and Software Technology*, To Appear. 2025. [[Code](https://github.com/NTDXYG/COTR)]
-  [[DOI]()]
+  In *Information and Software Technology*, To Appear. 2025. [[Code](https://github.com/NTDXYG/COTR)] [[DOI]()]
+  
+- ``EAAI'25`` (<span style="color:red">SCI-Q1</span>) **Resource-Efficient Automatic Software Vulnerability Assessment via Knowledge Distillation and Particle Swarm Optimization**.  
+  Chaoyang Gao, Xiang Chen, Jiyu Wang, Jibin Wang, <span style="color:blue">Guang Yang</span>.  
+  In *Engineering Applications Of Artificial Intelligence*, To Appear, 2025. [[Code](https://github.com/NTDXYG/CCGIR)] [[DOI](https://doi.org/10.1016/j.knosys.2021.107858)]
 
 
 ## 2024
