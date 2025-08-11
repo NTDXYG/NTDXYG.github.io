@@ -28,7 +28,6 @@ My advisor is Professor [Yu Zhou](https://csyuzhou.github.io/) (周宇),  [Xiang
 I have published over 30 papers <a href='https://scholar.google.com/citations?user=JFoOXQwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> at the international conferences (e.g., ASE, ACL, EMNLP) and journals (e.g., TSE, TOSEM, EMSE).
 
 # 🔥 News
-- *2025.08*: &nbsp;🎉 One paper is accepted by **ASE**!
 - *2025.05*: &nbsp;🎉 One paper is accepted by **ACL Main**!
 - *2025.05*: &nbsp;🎉 One paper is accepted by **TSE**!
 - *2025.05*: &nbsp;🎉 One paper is accepted by **TOSEM**!
@@ -41,9 +40,7 @@ I have published over 30 papers <a href='https://scholar.google.com/citations?us
 - *2015.09 - 2019.06*, Nantong University, major in Software Engineering.
 
 # 📝 Selected Publications
-1. ``ASE'25`` (<span style="color:red">CCF-A</span>) **Code-DiTing: Automatic Evaluation of Code Generation without References or Test Cases**.  
-    <span style="color:blue">Guang Yang</span>, Yu Zhou, Xiang Chen, Wei Zheng, Xing Hu, Xin Zhou, David Lo, and Taolue Chen.   
-    In *40th IEEE/ACM International Conference on Automated Software Engineering, ASE 2025*, To Appear. 2025. [[Code](https://github.com/Code-DiTing)] [[DOI]()]
+1. 
 2. ``TOSEM'25`` (<span style="color:red">CCF-A</span>) **Less is More: DocString Compression in Code Generation**.  
     <span style="color:blue">Guang Yang</span>, Yu Zhou, Wei Cheng, Xiangyu Zhang, Xiang Chen, Terry Yue Zhuo, Ke Liu, Xin Zhou, David Lo, and Taolue Chen.   
     In *ACM Transactions on Software Engineering and Methodology*, To Appear. 2025. [[Code](https://github.com/NTDXYG/ShortenDoc)] [[DOI]()]
@@ -81,6 +78,7 @@ I have published over 30 papers <a href='https://scholar.google.com/citations?us
 
 - ``CCF-A``Transactions on Software Engineering
 - ``CCF-A``Transactions on Software Engineering and Methodology
+- ``CCF-A``Transactions on Information Forensics \& Security
 - ``CCF-B`` Automated Software Engineering
 - ``CCF-B`` Information Processing & Management
 - ``CCF-B`` Information and Software Technology
